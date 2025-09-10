@@ -1,0 +1,3147 @@
+Mods: {
+	InfernumMode: {
+		Achievements: {
+			BabysFirstAchievement: {
+				DisplayName: 천 리 길도 한 걸음
+				Description:
+					'''
+					횟수가 높을 수록, 배움은 늘어간다
+					[c/777777:인페르넘 보스에게 죽으세요]
+					'''
+			}
+
+			BereftVassalAchievement: {
+				DisplayName: 잊혀진 모래
+				Description:
+					'''
+					사막 모래 언덕의 깊은 곳에서 빼앗긴 가신을 능가하세요
+					[c/777777:빼앗긴 가신을 물리치세요]
+					'''
+			}
+
+			ExoPathAchievement: {
+				DisplayName: 실험쥐
+				Description:
+					'''
+					드레이돈이 아끼는 실험 대상이 되세요
+					[c/777777:인페르넘 엑소 메카의 모든 조합을 물리치세요]
+					'''
+			}
+
+			InfernalChaliceAchievement: {
+				DisplayName: 지옥불 세례
+				Description:
+					'''
+					최후의 챌린지를 끝장내고 보상을 받으세요
+					[c/777777:인페르넘의 성배를 얻으세요]
+					'''
+			}
+
+			KillAllBossesAchievement: {
+				DisplayName: Infer-it-all!
+				Description:
+					'''
+					최후의 최후까지 모든 것을 뜯고 찢어버리세요
+					[c/777777:모든 인페르넘 보스에게 승리를 쟁취하세요]
+					'''
+			}
+
+			KillAllMinibossesAchievement: {
+				DisplayName: 소인배
+				Description:
+					'''
+					세계에 퍼져있는 사소한 위협들을 잠재우세요!
+					[c/777777:모든 인페르넘 미니 보스를 물리치세요]
+					'''
+			}
+
+			MechaMayhemAchievement: {
+				DisplayName: 악성 기계
+				Description:
+					'''
+					광기에 휩쌓인 기계 트리오를 한번에 폐기시키세요!
+					[c/777777:인페르넘 기계 대혼란을 처리하세요]
+					'''
+			}
+
+			NightProviAchievement: {
+				DisplayName: 나이트 나이트
+				Description:
+					'''
+					수많은 별들의 시선 아래에서 부정당한 여신을 무찌르세요
+					[c/777777:인페르넘 밤 프로비던스를 무찌르세요]
+					'''
+			}
+
+			RamlessDoGAchievement: {
+				DisplayName: 난동
+				Description:
+					'''
+					돌진 없이 포식자의 게임으로부터 살아남으세요
+					[c/777777:램 대시 없이 인페르넘 신들의 포식자를 이기세요]
+					'''
+			}
+
+			Wishes: {
+				BlahajWish: {
+					DisplayName: 자애로운 무력
+					Description:
+						'''
+						따뜻한 포옹
+						[c/777777:인페르넘 듀크 피시론을 1분 안에 처치하세요]
+						'''
+				}
+
+				CrescentWish: {
+					DisplayName: 포스트 아포칼립스
+					Description:
+						'''
+						마녀의 죄는 절대로 씻겨지지 않으리라
+						[c/777777:칼라미타스의 잊혀진 그림자를 지하세계에서 물리치세요]
+						'''
+				}
+
+				EggWish: {
+					DisplayName: 선택받은 자
+					Description:
+						'''
+						전설에 따르면 강력한 전사가 어딘가에 숨겨진 전설의 무기를 찾는다고 하네. 그 무기가 어디에 있냐면
+						[c/777777:골렘을 물리친 후 달걀 검 성소를 찾으세요]
+						'''
+				}
+
+				MatrixWish: {
+					DisplayName: 과학적인 방법
+					Description:
+						'''
+						실험은 실패를 위한 것. 실패는 배움을 위한 것. 배움은 발전을 위한 것
+						[c/777777:모든 보스를 물리친 뒤 엑소 메카의 모든 조합을 물리치세요]
+						'''
+				}
+
+				NightmareWish: {
+					DisplayName: 깨어난다
+					Description:
+						'''
+						이는 희생을 요구한다. 널 고른 건 좋은 선택인 거 같아.
+						[c/777777:유황 개사층에서 {0}초간 자세요]
+						'''
+				}
+
+				PurityWish: {
+					DisplayName: 타버리는 별씨앗
+					Description:
+						'''
+						마치 태양의 바람과 울림처럼 느껴져
+						[c/777777:인페르넘 밤 프로비던스를 3분 30초 안에 무찌르세요]
+						'''
+				}
+
+				SakuraWish: {
+					DisplayName: 순수한 산들바람
+					Description:
+						'''
+						백 개의 변덕스런 영혼이 쾌활하게 춤을 추네
+						[c/777777:벚꽃 봉오리를 찾으세요]
+						'''
+				}
+
+				StormMaidenWish: {
+					DisplayName: 비탄
+					Description:
+						'''
+						그들의 눈물은 비와 섞여, 이루지 못한 모든 일에 슬퍼한다
+						[c/777777:엑소 메카와 칼라미타스를 물리친 뒤 비가 내릴 때 스폰 근처에서 창을 찾으세요]
+						'''
+				}
+
+				TabletWish: {
+					DisplayName: 오염 방지
+					Description:
+						'''
+						모든 야수가 괴물은 아니지
+						[c/777777:전투 중 산성도가 50%를 초과하지 않은 채로 바다의 무법자를 처치하세요]
+						'''
+				}
+
+				TophatWish: {
+					DisplayName: 놀랍도록 어리석은 조수
+					Description:
+						'''
+						너의 실패는 경험과 발전이 되어가고 있어! 계속해!
+						[c/777777:한 보스에게 3번 연속으로 사망하세요]
+						'''
+				}
+			}
+		}
+
+		Bestiary: {
+			BereftVassal: 한 때 목적 없이 방황했던 경계심 많은 수호자. 그는 왕의 생존 소식을 듣고, 다시 삶의 의지를 되찾고 있는 것으로 보인다. 아무래도 그는 당신과 다시 싸울 것을 고대하고 있는 것 같다.
+			DepthFeeder: 심연이라는 절대적으로 적대적인 환경 속에서도, 생태계는 번성할 수 있다.
+			Herring: 유난히 강인한 이 생물은 유독한 심연의 상부 쪽 동굴에서 어떻게든 번성한다. 어쨌든간에, 이 생물들은 먹이사슬의 맨 밑에 있다.
+			Lionfish: 이 울퉁불퉁한 물고기는 서식지에서는 거의 사냥되지 않으며, 공격과 방어의 모든 면에서 독이 든 척추에 크게 의존한다.
+		}
+
+		Biomes: {
+			LostColosseumBiome: {
+				DisplayName: 잃어버린 콜로세움
+				TownNPCDialogueName: 잃어버린 콜로세움 바이옴
+			}
+
+			ProfanedTempleBiome: {
+				DisplayName: 부정당한 사원
+				TownNPCDialogueName: 부정당한 사원 바이옴
+			}
+		}
+
+		Buffs: {
+			AccentuationHex: {
+				DisplayName: 역설의 주술
+				Description: 적의 마법이 당신을 끌어당깁니다
+			}
+
+			AsterPetBuff: {
+				DisplayName: 애스터
+				Description: 수컷
+			}
+
+			BlahajBuff: {
+				DisplayName: Blahaj
+				Description: 편안한 친구
+			}
+
+			BrimstoneBarrier: {
+				DisplayName: 유황 장벽
+				Description: 강력한 마법 장벽의 대가로 당신의 무기가 잠시 시듭니다
+			}
+
+			BrimstoneExhaustion: {
+				DisplayName: 유황 피로
+				Description: 유황 초승달 스태프의 포스필드를 이 기간동안 소환할 수 없습니다
+			}
+
+			BronzePetBuff: {
+				DisplayName: 2018년대 칼라미티 Bumblebirb
+				Description: 테라리아에서 birb를 쓰다듬을 수 있다는 걸 아십니까?
+			}
+
+			CatharsisHex: {
+				DisplayName: 카타르시스의 주술
+				Description: 생명 재생이 자연적으로 되지 않으며 당신 내부에서 화난 영혼이 방출됩니다
+			}
+
+			DarkFlames: {
+				DisplayName: 어두운 불꽃
+				Description: 몸이 버려진 인페르노에 의해 타오릅니다. 방어력이 낮아집니다
+			}
+
+			HatGirlBuff: {
+				DisplayName: 모자걸
+				Description: 방화
+			}
+
+			IndignationHex: {
+				DisplayName: 분개의 주술
+				Description: 영혼을 찾는 자에게 사로잡힙니다
+			}
+
+			Madness: {
+				DisplayName: 광기
+				Description: 미쳐간다...
+			}
+
+			ShadowflameInferno: {
+				DisplayName: 그림자불꽃 인페르노
+				Description: 생명을 급속도로 소진합니다
+			}
+
+			SheepGodBuff: {
+				DisplayName: 양의 신
+				Description: 얜 잠이 안오면 누굴 세려나
+			}
+
+			Sleepy: {
+				DisplayName: 졸음
+				Description: 당신은 잠들었습니다!
+			}
+
+			WeaknessHex: {
+				DisplayName: 나약의 주술
+				Description: 방어력과 공격력이 크게 감소했습니다
+			}
+
+			ZealHex: {
+				DisplayName: 열성의 주술
+				Description: 적의 마법이 격렬히 빨라집니다
+			}
+
+			PerditusTagBuff: {
+				DisplayName: 페르디투스 태그
+				Description: 태그당함 및 젖음
+			}
+		}
+
+		Configs: {
+			InfernumConfig: {
+				DisplayName: 설정
+
+				BossIntroductionAnimationsAreAllowed: {
+					Label: 보스 입장 애니메이션
+					Tooltip: 보스 입장 애니메이션 활성화 여부 관리. 오로지 인페르넘이 켜져 있을때만 활성화됩니다.
+				}
+
+				DisplayTipsInChat: {
+					Label: 터진 탑햇의 팁을 채팅으로
+					Tooltip: 터진 탑햇 펫이 팁을 채팅에 말할 지에 대한 여부를 결정합니다.
+				}
+
+				ReducedGraphicsConfig: {
+					Label: 낮은 그래픽
+					Tooltip: 그래픽을 낮게 설정합니다. 렉이 심할 경우 활성화해주세요.
+				}
+
+				FlashbangOverlays: {
+					Label: 화면 오버레이
+					Tooltip: 화면 오버레이 '플래시뱅' 효과를 활성화합니다. 이 설정은 플레이 메커니즘에 직접적 영향을 끼치지 않습니다
+				}
+
+				CreditsRecordings: {
+					Label: 크레딧용 보스 실황 녹화
+					Tooltip: 크레딧 동안 재생되는 보스 실황 영상을 녹화합니다
+				}
+
+				CameraAnimations: {
+					Label: 끝없는 공허 카메라 고정
+					Tooltip: 끝없는 공허와 전투할 때 카메라 위치 변경 여부를 결정합니다.
+				}
+			}
+		}
+
+		Cooldowns: {
+			SealocketForcefieldCooldown: 포스필드 쿨다운
+			InfiniteFlightCooldown: 무한 비행
+			EggShieldRecharge: 댤걀 방패 쿨다운
+		}
+
+		DifficultyUI: {
+			Name: 인페르넘
+			ShortDescription:
+				'''
+				[c/B32E81:데스 모드보다 훨씬 색다르면서도 더 까다로운 것을 원하는 이들을 위한 별개의 챌린지.]
+				[c/B32E81:이 모드는 마스터나 the For the Worthy 시드에서는 작동하지 않습니다.]
+				'''
+			ExpandedDescription:
+				'''
+				 [c/B32E81:수많은 적들은 격변할 것이며, 더 도전적인 AI를 가질 것입니다.]
+				 [c/B32E81:또한, 아드레날린은 충전하는 데에 더 오래 걸릴 것입니다.]
+				 [c/FF0055:적응은 필연입니다.]
+				'''
+			InfernumText: 행운을 빌지.
+			InfernumText2: 네 선택이 그렇다면야.
+		}
+
+		ExoMechsFight: {
+			PickTwoText: 두 개를 고르십시오. 첫 번째로 고른 기계는 혼자 싸울 것이며, 첫 번째 기계가 충분히 손상되면 두 번째로 고른 기계가 소환되어 함께 싸울 것입니다..
+			ThanatosDesc: 타나토스, 침투 불가한 갑옷과 수 없이 많은 레이저 포탑을 갖추었으며 뱀의 형태를 한 공포스런 기계.
+			AresDesc: 아레스, 6개의 엑소 슈퍼 무기를 갖춘 거대한 괴물 기계.
+			ArtemisApolloDesc: 아르테미스와 아폴로, 불안정한 에너지의 극도로 민첩한 파괴 기계.
+		}
+
+		IntroScreen: {
+			AEWIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						태고의 감시자
+						원시 고룡
+						'''
+					EN:
+						'''
+						Primeval Warden
+						The Eidolon Wyrm
+						'''
+				}
+			}
+
+			AnahitaIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						잊혀진 여신
+						아나히타
+						'''
+					EN:
+						'''
+						Forgotten Deity
+						Anahita
+						'''
+				}
+			}
+
+			AquaticScourgeIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						유황 뱀
+						바다의 무법자
+						'''
+					EN:
+						'''
+						Sulphuric Serpent
+						The Aquatic Scourge
+						'''
+				}
+			}
+
+			AresIntroScreen: {
+				TextToDisplay: {
+					EN:
+						'''
+						The Ultimate War Machine
+						Ares
+						'''
+					$parentVal:
+						'''
+						궁극의 전쟁병기
+						아레스
+						'''
+				}
+
+				JokeTextToDisplay: {
+					EN:
+						'''
+						Prediction Game Master
+						Ares
+						'''
+					$parentVal:
+						'''
+						예측샷 마스터
+						아레스
+						'''
+				}
+			}
+
+			ArtemisAndApolloIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						우월한 사냥꾼
+						아르테미스와 아폴로
+						'''
+					EN:
+						'''
+						The Supreme Hunters
+						Artemis and Apollo
+						'''
+				}
+			}
+
+			AstrumAureusIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						짓밟는 오염
+						아스트럼 아우레우스
+						'''
+					EN:
+						'''
+						The Infected Stomper
+						Astrum Aureus
+						'''
+				}
+			}
+
+			AstrumDeusIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						별 방직자
+						아스트럼 데우스
+						'''
+					EN:
+						'''
+						The Star Weaver
+						Astrum Deus
+						'''
+				}
+			}
+
+			BereftVassalIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						아르고스
+						빼앗긴 가신
+						'''
+					EN:
+						'''
+						Argus
+						The Bereft Vassal
+						'''
+				}
+			}
+
+			BetsyIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						와이번들의 어머니
+						벳시
+						'''
+					EN:
+						'''
+						Mother of Wyverns
+						Betsy
+						'''
+				}
+			}
+
+			BrainOfCthulhuIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						섬뜩한 정신
+						크툴루의 뇌
+						'''
+					EN:
+						'''
+						Eldritch Mind
+						The Brain of Cthulhu
+						'''
+				}
+			}
+
+			BrimstoneElementalIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						상처받은 수호자
+						브림스톤 엘리멘탈
+						'''
+					EN:
+						'''
+						Scarred Numen
+						The Brimstone Elemental
+						'''
+				}
+			}
+
+			CalamitasShadowIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						실패한 마녀
+						칼라미타스의 그림자
+						'''
+					EN:
+						'''
+						False Witch
+						Calamitas' Shadow
+						'''
+				}
+			}
+
+			CeaselessVoidIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						끝없고도
+						끝없는 공허
+						'''
+					EN:
+						'''
+						The Never-Ending
+						Ceaseless Void
+						'''
+				}
+			}
+
+			CrabulonIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						되살아난 사체
+						크래뷸론
+						'''
+					EN:
+						'''
+						The Reanimated Carcass
+						Crabulon
+						'''
+				}
+			}
+
+			CryogenIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						불안정한 감옥
+						크라이오젠
+						'''
+					EN:
+						'''
+						The Unstable Prison
+						Cryogen
+						'''
+				}
+			}
+
+			CultistIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						고대 종말론자
+						미친 광신도
+						'''
+					EN:
+						'''
+						Ancient Doomsayer
+						The Lunatic Cultist
+						'''
+				}
+			}
+
+			DeerclopsIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						한겨울의 짐승
+						외눈사슴
+						'''
+					EN:
+						'''
+						Winter Beast
+						The Deerclops
+						'''
+				}
+			}
+
+			DesertScourgeIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						말라버린 대식가
+						사막의 무법자
+						'''
+					EN:
+						'''
+						Dried Glutton
+						The Desert Scourge
+						'''
+				}
+			}
+
+			DestroyerIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						전세계급 굴착기
+						파괴자
+						'''
+					EN:
+						'''
+						World Excavator
+						The Destroyer
+						'''
+				}
+			}
+
+			DoGIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						자만하는
+						신들의 포식자
+						'''
+					EN:
+						'''
+						The Conceited
+						Devourer of Gods
+						'''
+				}
+			}
+
+			DraedonIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						전우주적 엔지니어
+						드레이돈
+						'''
+					EN:
+						'''
+						The Cosmic Engineer
+						Draedon
+						'''
+				}
+			}
+
+			DragonfollyIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						거짓된 자손
+						어리석은 용
+						'''
+					EN:
+						'''
+						False Offspring
+						The Dragonfolly
+						'''
+				}
+			}
+
+			DreadnautilusIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						블러드 문의 악몽
+						드레드노틸러스
+						'''
+					EN:
+						'''
+						Nightmare of the Blood Moon
+						Dreadnautilus
+						'''
+				}
+			}
+
+			DukeFishronIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						바다의 공포
+						듀크 피시론
+						'''
+					EN:
+						'''
+						Terror of the Seas
+						Duke Fishron
+						'''
+				}
+			}
+
+			EaterOfWorldsIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						오염의 공포
+						세상을 먹는 자
+						'''
+					EN:
+						'''
+						Terror of the Corruption
+						The Eater of Worlds
+						'''
+				}
+			}
+
+			EmpressOfLightIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						프리즘 요정
+						빛의 여제
+						'''
+					EN:
+						'''
+						Prismatic Fae
+						The Empress of Light
+						'''
+				}
+			}
+
+			EyeOfCthulhuIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						악마의 미래안
+						크툴루의 눈
+						'''
+					EN:
+						'''
+						Demonic Seer
+						The Eye of Cthulhu
+						'''
+				}
+			}
+
+			GolemIntroScreen: {
+				TextToDisplay: {
+					EN:
+						'''
+						The Ancient Idol
+						Golem
+						'''
+					$parentVal:
+						'''
+						고대의 우상
+						골렘
+						'''
+				}
+
+				JokeTextToDisplay: {
+					EN:
+						'''
+						NUMBER ! SALSMAN
+						[Circa 1997]
+						'''
+					$parentVal:
+						'''
+						별점 ! 새일즈맨
+						[약 1997]
+						'''
+				}
+			}
+
+			GreatSandSharkIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						타우로스
+						거대 모래 상어
+						'''
+					EN:
+						'''
+						Taurus
+						The Great Sand Shark
+						'''
+				}
+			}
+
+			HiveMindIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						집단적인 성장체
+						하이브 마인드
+						'''
+					EN:
+						'''
+						Collective Growth
+						The Hive Mind
+						'''
+				}
+			}
+
+			KingSlimeIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						젤라틴의 군주
+						킹 슬라임
+						'''
+					EN:
+						'''
+						Monarch of the Gelatinous
+						King Slime
+						'''
+				}
+			}
+
+			LeviathanIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						오래된 짐승
+						레비아탄
+						'''
+					EN:
+						'''
+						Timeworn Beast
+						The Leviathan
+						'''
+				}
+			}
+
+			MoonLordIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						고대의 끔찍한 잔재
+						문 로드
+						'''
+					EN:
+						'''
+						Eldritch Remains
+						The Moon Lord
+						'''
+				}
+			}
+
+			OldDukeIntroScreen: {
+				TextToDisplay: {
+					EN:
+						'''
+						Sulphuric Terror
+						The Old Duke
+						'''
+					$parentVal:
+						'''
+						황폐한 공포
+						늙은 공작
+						'''
+				}
+
+				JokeTextToDisplay: {
+					EN:
+						'''
+						Speed Demon
+						The Old Duke
+						'''
+					$parentVal:
+						'''
+						개빠른 악마
+						늙은 공작
+						'''
+				}
+			}
+
+			PBGIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						생체역학적 거상
+						질병전이체 골리앗
+						'''
+					EN:
+						'''
+						Biomechanical Colossus
+						The Plaguebringer Goliath
+						'''
+				}
+			}
+
+			PerforatorHiveIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						피투성이 기생체
+						퍼포레이터즈
+						'''
+					EN:
+						'''
+						Bloodied Parasites
+						The Perforators
+						'''
+				}
+			}
+
+			PlanteraIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						과성장
+						플렌테라
+						'''
+					EN:
+						'''
+						The Overgrowth
+						Plantera
+						'''
+				}
+			}
+
+			PolterghastIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						진노의 집합체
+						폴터가스트
+						'''
+					EN:
+						'''
+						Wrathful Coalescence
+						The Polterghast
+						'''
+				}
+			}
+
+			ProfanedGuardiansIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						순수함의 사도
+						부정당한 수호자들
+						'''
+					EN:
+						'''
+						Disciples of Purity
+						The Profaned Guardians
+						'''
+				}
+			}
+
+			ProfanedTempleIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						정화된 대지
+						부정당한 정원
+						'''
+					EN:
+						'''
+						Cleansed Site
+						The Profaned Garden
+						'''
+				}
+			}
+
+			ProvidenceIntroScreen: {
+				TextToDisplay: {
+					EN:
+						'''
+						The Blaze of Absolution
+						Providence
+						'''
+					$parentVal:
+						'''
+						면죄의 불꽃
+						프로비던스
+						'''
+				}
+
+				EnragedTextToDisplay: {
+					EN:
+						'''
+						The Blaze of Purity
+						Providence
+						'''
+					$parentVal:
+						'''
+						순수의 불꽃
+						프로비던스
+						'''
+				}
+			}
+
+			QueenBeeIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						벌들의 대모
+						여왕벌
+						'''
+					EN:
+						'''
+						Hive Matriarch
+						Queen Bee
+						'''
+				}
+			}
+
+			QueenSlimeIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						신성한 미사
+						퀸 슬라임
+						'''
+					EN:
+						'''
+						Hallowed Mass
+						The Queen Slime
+						'''
+				}
+			}
+
+			RavagerIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						살점 요새
+						궤멸자
+						'''
+					EN:
+						'''
+						The Fortress of Flesh
+						Ravager
+						'''
+				}
+			}
+
+			SCalIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						유황 마녀
+						칼라미타스
+						'''
+					EN:
+						'''
+						The Brimstone Witch
+						Calamitas
+						'''
+				}
+			}
+
+			SignusIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						흉측한 암살자
+						시그너스
+						'''
+					EN:
+						'''
+						The Fathomless Assassin
+						Signus
+						'''
+				}
+			}
+
+			SkeletronIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						노인의 저주
+						스켈레트론
+						'''
+					EN:
+						'''
+						The Old Man's Curse
+						Skeletron
+						'''
+				}
+			}
+
+			SkeletronPrimeIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						공포의 장치
+						스켈레트론 프라임
+						'''
+					EN:
+						'''
+						Contraption of Dread
+						Skeletron Prime
+						'''
+				}
+			}
+
+			SlimeGodIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						원시적 형성물
+						슬라임 갓
+						'''
+					EN:
+						'''
+						Primordial Formation
+						The Slime God
+						'''
+				}
+			}
+
+			StormWeaverIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						대기의 포식수
+						폭풍의 방직자
+						'''
+					EN:
+						'''
+						Atmospheric Predator
+						The Storm Weaver
+						'''
+				}
+			}
+
+			TerminusIntroScreen: {
+				TextToDisplay: {
+					$parentVal: 심연 속에서 종착점을 발견했습니다!
+					EN: You found the Terminus!
+				}
+			}
+
+			ThanatosIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						완벽한 섬멸자
+						타나토스
+						'''
+					EN:
+						'''
+						The Perfect Annihilator
+						Thanatos
+						'''
+				}
+			}
+
+			TwinsIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						기계적 관찰자
+						트윈즈
+						'''
+					EN:
+						'''
+						Mechanical Observers
+						The Twins
+						'''
+				}
+			}
+
+			WoFIntroScreen: {
+				TextToDisplay: {
+					$parentVal:
+						'''
+						굶주린 괴집합체
+						월 오브 플래시
+						'''
+					EN:
+						'''
+						Hungering Conglomeration
+						The Wall of Flesh
+						'''
+				}
+			}
+
+			YharonIntroScreen: {
+				TextToDisplay: {
+					EN:
+						'''
+						Unwavering Guardian
+						Yharon
+						'''
+					$parentVal:
+						'''
+						흔들리지 않는 수호자
+						야론
+						'''
+				}
+
+				JokeTextToDisplay: {
+					EN:
+						'''
+						Grand
+						Yharon
+						'''
+					$parentVal:
+						'''
+						쩌는
+						야론
+						'''
+				}
+			}
+		}
+
+		Items: {
+			// Beware translators, this line must match the "enrage" word in the tooltip of your language
+			EnrageTooltip: enrage
+			DeveloperItem: "[c/{0}:~ 개발자 아이템 ~]"
+			InfernalRelicText: 패배한 적의 지옥불이 깃들었다
+
+			Lore: {
+				KnowledgeBereftVassal: {
+					Lore:
+						'''
+						고독한 동지애를 지닌 특이한 한 쌍.
+						고귀한 전사였던 아르고스는 일메리스의 폐허에서 살아나온 생존자로 보인다.
+						특별한 이유 없이, 그는 이 불가사의한 폐허를 피난처로 삼아 당신의 도착 전까지 조용히 시간의 흐름을 관찰했다.
+						그의 운명은 그릇된 독선이니. 대의에 눈 멀어 무의미한 고통을 만들진 말아주길.
+						'''
+					DisplayName: 빼앗긴 가신
+				}
+			}
+
+			CelestialSigil.SummoningText:
+				'''
+				문 로드를 바로 소환한다
+				플레이어의 위치 주위에 아레나를 만든다
+				비소모품
+				'''
+
+			ProfanedShard: {
+				SummoningText: 지하세계의 맨 오른쪽에 있는 부정당한 정원의 절벽에서 사용하면 부정당한 수호자를 소환한다.
+				GardenWarning:
+					'''
+					현재 월드에는 부정당한 정원이 없습니다.
+					문 로드를 다시 죽여 생성시켜 주세요
+					'''
+			}
+
+			EyeofDesolation.SummoningText: 밤에 사용할 경우 {0}을(를) 소환한다
+			ProfanedCore.SummoningText: 지하세계 동쪽 끝에 있는 부정당한 사원의 제단에서 사용하면 프로비던스를 소환한다
+			RuneofKos.DeveloperText: 끝없는 공허는 아카이브 내에서만 싸울 수 있습니다.
+
+			SandstormsCore: {
+				PortalDetail: 잃어버린 콜로세움으로 가는 차원문을 연다
+				GatewayWarning: 현재 세계 내에는 잃어버린 관문이 없습니다. 미친 광신도를 죽여 차원문을 재생성할 수 있습니다.
+			}
+
+			LihzahrdPowerCell.SummoningText:
+				'''
+				리자드 제단에서 사용 시 골렘을 소환한다
+				골렘은 제단 주변에 직사각형 아레나를 소환한다
+				제단이 사원 내부에 있는 경우 경기장 내에 있는 단단한 타일들이 부서진다
+				'''
+
+			CherishedSealocket: {
+				DisplayName: 소중한 바다펜던트
+				Tooltip:
+					'''
+					2번 맞으면 사라지는 워터 포스필드를 부여한다
+					포스필드가 작동되면, 강력한 공격으로 인한 피해가 60% 감소하고, 12%의 공격력 부스트를 받는다
+					포스필드는 90초 뒤에 다시 생긴다
+					'''
+			}
+
+			FlowerOfTheOcean: {
+				DisplayName: 바다의 꽃
+				Tooltip:
+					'''
+					바다 안에서 가시성이 크게 증가한다
+					바다 안의 풍경을 보여준다
+					'''
+			}
+
+			Purity: {
+				DisplayName: 청정성
+				Tooltip:
+					'''
+					공격력 1.4배 및 공속 40% 증가
+					소환수는 이 공격력 효과를 받을 수 없다
+					나이트위더 면역
+					[c/ff5d5d:이제 넌 치명타를 칠 수 없어]
+					[c/59aae7:마치 태양 안에서 유리개구리를 쫓는 두 형제같아]
+					'''
+			}
+
+			// Important: Don't translate this tooltip, currently is being used for the tooltip effect
+			SakuraBloom: {
+				DisplayName: 벚꽃의 개화
+				Tooltip:
+					'''
+					A symbol of how beautiful love is when in bloom, and how easily it can wither away whyyyy
+					Temporary
+					'''
+
+				TooltipEffect: {
+					FirstText: "꽃의 개화는 "
+					SecondText: 사랑
+					ThirdText: 이 얼마나 아름다운지, 그리고 얼마나 쉽게 시들 수 있는지에 대한 상징이야
+					FourthText: "이것과 함께라면, 우린 서로를 항상 "
+					FifthText: 기억
+					SixthText: 할 수 있을거야
+				}
+			}
+
+			BereftVassalBossBag: {
+				DisplayName: 보물 가방 (빼앗긴 가신)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			BrimstoneCrescentStaff: {
+				DisplayName: 유황 초승달 스태프
+				Tooltip:
+					'''
+					지팡이 사용 시 60% DR을 주는 포스필드 부여
+					포스필드가 작동 중일 때 적이 공격하면 근처 적에게 피해를 주는 격렬한 폭발을 일으킨다
+					포스필드 작동 후 15초간 당신의 공격력이 60% 감소한다
+					포스필드는 공격을 3번 맞으면 깨지며, 45초간 이 포스필드를 사용할 수 없다.
+					'''
+			}
+
+			DemonicChaliceOfInfernum: {
+				DisplayName: 인페르넘의 악마 성배
+				Tooltip: ""
+			}
+
+			ProfanedCrystalDye.DisplayName: 부정당한 수정 염료
+
+			ElysianRose: {
+				DisplayName: 엘리시온 장미
+				Tooltip: 이 장미는 심연의 가장 깊은 곳을 갈망한다...
+			}
+
+			HyperplaneMatrix: {
+				DisplayName: 초평면 매트릭스
+				Tooltip:
+					'''
+					무한한 힘을 담고 있는 헤아릴 수 없이 복잡한 장치
+					이를 사용하면 다양한 현실 왜곡 능력을 주는 패널이 열린다
+					머나먼 천체 어딘가에 드레이돈이라는 존재가 태어났다
+					이는 건설하고 진화하도록 만들어졌으니
+					하나의 목적, 하나의 주기
+					높을 때, 기계가 작동하고
+					낮을 때, 안정되리라
+					모든 것이 명령되었다
+					모든 것이 같다
+					'''
+			}
+
+			KnowledgeBereftVassal: {
+				DisplayName: 빼앗긴 가신과 위대한 모래 상어
+				Tooltip:
+					'''
+					[c/e3af40:높은 곳의 속삭임이 귓가에 맴돈다...]
+					[c/bebebe:"왼쪽 Shift"를 눌러 자세히 들어보자]
+					'''
+			}
+
+			LunarCoin: {
+				DisplayName: 루나 코인
+				Tooltip: ""
+			}
+
+			Blahaj: {
+				DisplayName: Blahaj
+				Tooltip: 애완 이케아 인형을 소환한다
+			}
+
+			BlastedTophat: {
+				DisplayName: 터진 탑햇
+				Tooltip: 당신과 싸우는 보스에 관한 조언을 해주는 조그마한 모자걸를 소환한다
+			}
+
+			DisenchantedTablet: {
+				DisplayName: 마법이 비어있는 서판
+				Tooltip:
+					'''
+					뒤얽힌 기억의 복잡한 네트워크가 봉인되어 있다
+					지면 어딘가에 위치한 서판 제단에서 마법을 부여할 수 있다
+					'''
+			}
+
+			NightmareCatcher: {
+				DisplayName: 악몽 포수
+				Tooltip:
+					'''
+					당신을 따라다니는 양의 군주를 소환한다
+					천천히 꿈속에 빠져드니, 어둠 속에서 나타나리
+					'''
+			}
+
+			RisingWarriorsSoulstone: {
+				DisplayName: 부유하는 전사의 영혼석
+				Tooltip:
+					'''
+					아마 당신을 '도울'...? 별의 아이 늑대를 소환한다
+					서판이 강력한 옛 물건과 공명하였다
+					'''
+			}
+
+			SuspiciouslyRoundFeather: {
+				DisplayName: 수상한 모양의 깃털
+				Tooltip: 오랜 친구를 소환한다
+			}
+
+			AquaticScourgeSkull: {
+				DisplayName: 바다의 무법자 유골
+				Tooltip: ""
+			}
+
+			BereftVassalTrophy: {
+				DisplayName: 빼앗긴 가신 조각상
+				Tooltip: ""
+			}
+
+			CosmicMonolithItem: {
+				DisplayName: 전우주의 모노리스
+				Tooltip: ""
+			}
+
+			CreditPainting: {
+				DisplayName: Credit where Credit is Due
+				Tooltip: ""
+			}
+
+			GrandStatueItem: {
+				DisplayName: 위대한 동상
+				Tooltip: ""
+			}
+
+			ProfanedFountainItem: {
+				DisplayName: 부정당한 용암의 샘
+				Tooltip: ""
+			}
+
+			ProvidenceSpawnerItem: {
+				DisplayName: 프로비던스 성지 (디버그)
+				Tooltip: 부정당한 코어에 우클릭하면 프로비던스를 소환한다
+			}
+
+			TabletPedestal: {
+				DisplayName: 서판 받침대
+				Tooltip: 마법이 비어있는 어떤 서판에 마법을 부여할 때 사용한다
+			}
+
+			AEWRelic: {
+				DisplayName: 인페르널 원시 고룡 유물
+				Tooltip: GetsChanged
+			}
+
+			AquaticScourgeRelic: {
+				DisplayName: 인페르널 바다의 무법자 유물
+				Tooltip: GetsChanged
+			}
+
+			AstrumAureusRelic: {
+				DisplayName: 인페르널 아스트럼 아우레우스 유물
+				Tooltip: GetsChanged
+			}
+
+			AstrumDeusRelic: {
+				DisplayName: 인페르널 아스트럼 데우스 유물
+				Tooltip: GetsChanged
+			}
+
+			BereftVassalRelic: {
+				DisplayName: 인페르널 빼앗긴 가신 유물
+				Tooltip: GetsChanged
+			}
+
+			BetsyRelic: {
+				DisplayName: 인페르널 벳시 유물
+				Tooltip: GetsChanged
+			}
+
+			BrainOfCthulhuRelic: {
+				DisplayName: 인페르널 크툴루의 뇌 유물
+				Tooltip: GetsChanged
+			}
+
+			BrimstoneElementalRelic: {
+				DisplayName: 인페르널 브림스톤 엘리멘탈 유물
+				Tooltip: GetsChanged
+			}
+
+			CeaselessVoidRelic: {
+				DisplayName: 인페르널 끝없는 공허 유물
+				Tooltip: GetsChanged
+			}
+
+			CrabulonRelic: {
+				DisplayName: 인페르널 크래뷸론 유물
+				Tooltip: GetsChanged
+			}
+
+			CryogenRelic: {
+				DisplayName: 인페르널 크라이오젠 유물
+				Tooltip: GetsChanged
+			}
+
+			DarkMageRelic: {
+				DisplayName: 인페르널 어둠의 마법사 유물
+				Tooltip: GetsChanged
+			}
+
+			DeerclopsRelic: {
+				DisplayName: 인페르널 외눈사슴 유물
+				Tooltip: GetsChanged
+			}
+
+			DesertScourgeRelic: {
+				DisplayName: 인페르널 사막의 무법자 유물
+				Tooltip: GetsChanged
+			}
+
+			DestroyerRelic: {
+				DisplayName: 인페르널 파괴자 유물
+				Tooltip: GetsChanged
+			}
+
+			DevourerOfGodsRelic: {
+				DisplayName: 인페르널 신들의 포식자 유물
+				Tooltip: GetsChanged
+				PersonalMessage:
+					'''
+					때론 순수 반응 기술이 배양할 가치가 가장 높다.
+					당신은 마지막 과정으로 접어들었다. 당신의 결정은 지금까지도 아주 귀중하다고 입증되었다.
+					이는 전부 마지막 도전으로 인도되리라.
+					'''
+			}
+
+			DraedonRelic: {
+				DisplayName: 인페르널 드레이돈 유물
+				Tooltip: GetsChanged
+
+				PersonalMessage: {
+					DefaultMessage:
+						'''
+						당신은 경이로운 도전을 해냈다. 이제 해결할 일은 단 하나-
+						마녀를 마주하라.
+						'''
+					DownedCalamitasMessage:
+						'''
+						당신은 훌륭한 일을 해냈다. 모든 주요 강적들을 정복했다.
+						이젠 자부심을 가지자. 우린 시작했을 때보다 훨씬 강해졌으니까.
+						'''
+				}
+			}
+
+			DragonfollyRelic: {
+				DisplayName: 인페르널 어리석은 용 유물
+				Tooltip: GetsChanged
+			}
+
+			DreadnautilusRelic: {
+				DisplayName: 인페르널 드레드노틸러스 유물
+				Tooltip: GetsChanged
+			}
+
+			DukeFishronRelic: {
+				DisplayName: 인페르널 피시론 공작 유물
+				Tooltip: GetsChanged
+			}
+
+			EaterOfWorldsRelic: {
+				DisplayName: 인페르널 세상을 먹는 자 유물
+				Tooltip: GetsChanged
+			}
+
+			EmpressOfLightRelic: {
+				DisplayName: 인페르널 빛의 여제 유물
+				Tooltip: GetsChanged
+				PersonalMessage: 굳이 마주친 적이 매우 위협적일 때가 있다. 물론, 그 뒤엔 아주 큰 보상이 기다릴 수도 있다.
+			}
+
+			EyeOfCthulhuRelic: {
+				DisplayName: 인페르널 크툴루의 눈 유물
+				Tooltip: GetsChanged
+				PersonalMessage:
+					'''
+					승리와 전진에 너무 집중하지 말고, 조금 쉬는 것도 괜찮아 보인다.
+					즐기는 게 가장 중요하니까.
+					'''
+			}
+
+			ForgottenShadowOfCalamitasRelic: {
+				DisplayName: 인페르널 칼라미타스의 잊혀진 그림자 유물
+				Tooltip: GetsChanged
+			}
+
+			GiantClamRelic: {
+				DisplayName: 인페르널 거대 조개 유물
+				Tooltip: GetsChanged
+			}
+
+			GolemRelic: {
+				DisplayName: 인페르널 골렘 유물
+				Tooltip: GetsChanged
+				PersonalMessage: 간단하지만 체계적인 계획은 큰 도움이 된다. 이는 미래의 장애물을 돌파할 때에도 아주 유용할 것이다.
+			}
+
+			HiveMindRelic: {
+				DisplayName: 인페르널 하이브 마인드 유물
+				Tooltip: GetsChanged
+			}
+
+			KingSlimeRelic: {
+				DisplayName: 인페르널 킹 슬라임 유물
+				Tooltip: GetsChanged
+				PersonalMessage: 노련한 플레이어도 새롭고 익숙하지 않은 것을 직면하면 벽을 느낄 수 있다. 이럴 땐, 적응하라.
+			}
+
+			LeviathanRelic: {
+				DisplayName: 인페르널 레비아탄 유물
+				Tooltip: GetsChanged
+			}
+
+			LunaticCultistRelic: {
+				DisplayName: 인페르널 미친 광신도 유물
+				Tooltip: GetsChanged
+			}
+
+			MoonLordRelic: {
+				DisplayName: 인페르널 문 로드 유물
+				Tooltip: GetsChanged
+				PersonalMessage:
+					'''
+					당신은 지금까지 아주 잘 해왔다.
+					당신의 끈기가 남은 도전을 헤쳐나갈 수 있기를.
+					'''
+			}
+
+			OgreRelic: {
+				DisplayName: 인페르널 오거 유물
+				Tooltip: GetsChanged
+			}
+
+			OldDukeRelic: {
+				DisplayName: 인페르널 늙은 공작 유물
+				Tooltip: GetsChanged
+				PersonalMessage:
+					'''
+					싸움이 어려워도, 당신의 현명함은 도전을 헤내도록 만들었다.
+					곧 시도해본 행동들의 관련성이 증명될 것이다.
+					'''
+			}
+
+			PerforatorsRelic: {
+				DisplayName: 인페르널 퍼포레이터 하이브 유물
+				Tooltip: GetsChanged
+			}
+
+			PlaguebringerGoliathRelic: {
+				DisplayName: 인페르널 질병전이체 골리앗 유물
+				Tooltip: GetsChanged
+			}
+
+			PlanteraRelic: {
+				DisplayName: 인페르널 플렌테라 유물
+				Tooltip: GetsChanged
+				PersonalMessage:
+					'''
+					사망 횟수를 자랑스러워하라!
+					많이 죽을수록, 많이 배웠다는 뜻이니. 계속 전진하라!
+					'''
+			}
+
+			PolterghastRelic: {
+				DisplayName: 인페르널 폴터가스트 유물
+				Tooltip: GetsChanged
+			}
+
+			ProfanedGuardiansRelic: {
+				DisplayName: 인페르널 부정당한 수호자 유물
+				Tooltip: GetsChanged
+			}
+
+			ProvidenceRelic: {
+				DisplayName: 인페르널 프로비던스 유물
+				Tooltip: GetsChanged
+
+				PersonalMessage: {
+					DefaultMessage:
+						'''
+						달의 군주 이후의 처음으로 힘들었던 장애물. 그녀로부터 승리를 쟁취한 것은 결코 작은 업적이 아니다.
+						밤에 그녀에게 대적하는 건 특별한 도전이 될 지도 모른다.
+						'''
+					HasBeatenInfernumNightProvBeforeDayMessage:
+						'''
+						님아? 뭐임? 님 괜찮음?
+						            원래는 낮 버전을 먼저 처리하고 밤 버전을 도전해야 하는데!
+						'''
+				}
+			}
+
+			QueenBeeRelic: {
+				DisplayName: 인페르널 여왕벌 유물
+				Tooltip: GetsChanged
+			}
+
+			QueenSlimeRelic: {
+				DisplayName: 인페르널 퀸 슬라임 유물
+				Tooltip: GetsChanged
+			}
+
+			RavagerRelic: {
+				DisplayName: 인페르널 궤멸자 유물
+				Tooltip: GetsChanged
+			}
+
+			SignusRelic: {
+				DisplayName: 인페르널 시그너스 유물
+				Tooltip: GetsChanged
+			}
+
+			SkeletronPrimeRelic: {
+				DisplayName: 인페르널 스켈레트론 프라임 유물
+				Tooltip: GetsChanged
+			}
+
+			SkeletronRelic: {
+				DisplayName: 인페르널 스켈레트론 유물
+				Tooltip: GetsChanged
+				PersonalMessage: 당신의 길을 가로막은 첫 강적. 이 자를 만났을 때보다 당신은 더욱 성장하였다. 패턴 공략은 재밌었는지?
+			}
+
+			SlimeGodRelic: {
+				DisplayName: 인페르널 슬라임 갓 유물
+				Tooltip: GetsChanged
+			}
+
+			StormWeaverRelic: {
+				DisplayName: 인페르널 폭풍의 방직자 유물
+				Tooltip: GetsChanged
+			}
+
+			SupremeCalamitasRelic: {
+				DisplayName: 인페르널 슈프림 칼라미타스 유물
+				Tooltip: GetsChanged
+
+				PersonalMessage: {
+					DefaultMessage:
+						'''
+						당신은 경이로운 도전을 해냈다. 이제 해결할 일은 단 하나-
+						전우주적 엔지니어를 마주하라.
+						'''
+					DownedExoMechsMessage:
+						'''
+						당신은 훌륭한 일을 해냈다. 당신은 모든 주요 강적들을 정복했다.
+						이젠 자부심을 가지자. 우린 시작했을 때보다 훨씬 강해졌으니까.
+						'''
+				}
+			}
+
+			TwinsRelic: {
+				DisplayName: 인페르널 트윈즈 유물
+				Tooltip: GetsChanged
+			}
+
+			WallOfFleshRelic: {
+				DisplayName: 인페르널 월 오브 플래시 유물
+				Tooltip: GetsChanged
+			}
+
+			YharonRelic: {
+				DisplayName: 인페르널 야론 유물
+				Tooltip: GetsChanged
+			}
+
+			SakuraBud: {
+				DisplayName: 벚꽃 봉오리
+				Tooltip:
+					'''
+					섬세하고 연약하며, 이제 막 피려하는 벚꽃 봉오리
+					You feel a guiding spirit trying to lead you the bloom’s home
+					Maybe you should follow its call?
+					'''
+
+				TooltipEffect: {
+					FirstText: "마치 꽃봉오리로 "
+					SecondText: 인도하는 영혼
+					ThirdText: 이 부르는 느낌이다
+					FourthText: "영혼이 마치 주의를 "
+					FifthText: 물로 끌려 하는 것 같다..
+					SixthText: 이 부름에 응답해보는 것은 어떤가?
+				}
+			}
+
+			BloodwormPlatter: {
+				DisplayName: 핏빛지렁이 접시
+				Tooltip:
+					'''
+					늙은 공작을 소환한다
+					유황 바다에서만 사용 가능
+					비소모품
+					'''
+			}
+
+			DungeonsCurse: {
+				DisplayName: 던전의 저주
+				Tooltip:
+					'''
+					스켈레트론을 소환한다
+					낮에는 폭주한다
+					이 아이템이 낮에 사용된다면 악몽이 시작되리라
+					비소모품
+					'''
+			}
+
+			EvokingSearune: {
+				DisplayName: 소환의 바다룬
+				Tooltip:
+					'''
+					가장 깊은 층의 심연에 원시 고룡을 소환한다
+					최초의 신이 만들었다고 전해지는 원시 유물로, 수호의 유령을 소환할 수 있다
+					비소모품
+					'''
+			}
+
+			FleshChunk: {
+				DisplayName: 살점덩어리
+				Tooltip:
+					'''
+					월 오브 플래시를 소환한다
+					지하세계에서만 사용 가능
+					비소모품
+					'''
+			}
+
+			LeviathanDetector: {
+				DisplayName: 레비아탄 감지기
+				Tooltip:
+					'''
+					아나히타를 소환한다
+					비소모품
+					'''
+			}
+
+			RadiantCrystal: {
+				DisplayName: 찬란한 수정
+				Tooltip:
+					'''
+					빛의 여제를 소환한다
+					할로우에서 사용할 필요가 없다
+					낮에는 폭주한다
+					비소모품
+					'''
+			}
+
+			RedBait: {
+				DisplayName: 붉은 미끼
+				Tooltip:
+					'''
+					드레드노틸러스를 소환한다
+					밤에만 사용할 수 있다
+					비소모품
+					'''
+			}
+
+			SparklingTunaCan: {
+				DisplayName: 거품오른 몰루스크 통조림
+				Tooltip:
+					'''
+					거대 조개를 소환한다
+					침몰한 바다에서만 사용 가능
+					비소모품
+					'''
+			}
+
+			TrufflePlatter: {
+				DisplayName: 트러플 웜 접시
+				Tooltip:
+					'''
+					피시론 공작을 소환한다
+					바다에서만 사용 가능
+					비소모품
+					'''
+			}
+
+			WaterglassToken: {
+				DisplayName: 물유리 토큰
+				Tooltip:
+					'''
+					잃어버린 콜로세움으로 순간이동했다가 다시 돌아온다
+					이 아이템은 마우스에 홀드된 상태에서 사용할 수 없으며 핫바에 두고 사용해야 한다
+					'''
+			}
+
+			Wayfinder: {
+				DisplayName: 길잡이
+				Tooltip:
+					'''
+					빠른 이동이 가능한 마법의 문을 만든다
+					보스가 살아있을 땐 작동하지 않는다
+					ModifedInModifyTooltips
+					'''
+				TooltipEffect:
+					'''
+					좌클릭을 꾹 누르면 게이트로 순간이동한다
+					{0} 키를 누른 채 좌클릭을 꾹 누르면 게이트의 위치를 설정한다
+					{1} 키를 누른 채 좌클릭을 꾹 누르면 게이트를 지운다
+					'''
+			}
+
+			AridBattlecry: {
+				DisplayName: 매마른 전투의 함성
+				Tooltip: 커서 아래에 날아다니는 상어를 소환한다
+			}
+
+			EyeOfMadness: {
+				DisplayName: 광기의 눈
+				Tooltip:
+					'''
+					범위 내의 적을 함정에 빠뜨리는 그림자 손을 소환한다
+					한때 유체가들이 사용했던 신성한 유물. 이는 어떻게든 영겁의 과거를 담고 있으니
+					안타깝게도 이가 담고 있는 내용은 당신을 초월하나, 온전한 정신이
+					조금 무너질 지라도 당신은 이미 이 신비한 힘과 가까워진 것 같다
+					'''
+			}
+
+			IllusionersReverie: {
+				DisplayName: 환술가의 환상
+				Tooltip:
+					'''
+					근처의 적을 사냥하고 암흑 마법의 구름 속으로 다시 흩어지는 자신의 그림자 환영을 소환한다
+					You shouldn't see this
+					이 존재는 신비한 수심에 어떤 지식이 빠졌는지에 대해 호기심을 자극한다
+					'''
+
+				TooltipEffect: {
+					FirstText: ""
+					SecondText: "이해가 불가능할 정도로 "
+					ThirdText: 오래된 책. 정말 오래된 것 같지만 너무나도 멀쩡해보인다
+				}
+			}
+
+			Kevin: {
+				DisplayName: kevin
+				Tooltip:
+					'''
+					평범한 신도는 이해할 수 없는 더 큰 전체의 일부
+					'Kinetic Electroplasma Voltage INfuser'의 약자이다
+					'''
+			}
+
+			CallUponTheEggs: {
+				DisplayName: 달걀 부름이
+				Tooltip:
+					'''
+					좌클릭 시 커서 위치에 달걀 비를 내린다
+					우클릭 시 방어력을 100으로 증가시켜 주지만, 공격력을 50% 감소시키는 단단한 달걀을 소환한다
+					달걀은 3번의 타격을 받으면 깨지며 다시 사용하려면 재충전이 필요하다
+					[c/f0ad56:이 무기는 약한 이들을 감시할 자만이 휘두를 수 있다]
+					'''
+			}
+
+			Myrindael: {
+				DisplayName: 미린다엘
+				Tooltip:
+					'''
+					왼클릭을 누르고 있으면 창을 회준 후 던진다. 적에게 적중 시 적에게 번개와 스파크로 공격한다.
+					우클릭을 누르면 돌진하며, 적에게 적중 시 적에게 번개를 내린다.
+					[c/6fc8ff:싸우고 파괴하는 것은 세상에서 빼앗기 위한 것]
+					[c/6fc8ff:만약, 세상이 너의 걸림돌이 된다면 너는 무엇을 할 수 있을까?]
+					'''
+			}
+
+			TheGlassmaker: {
+				DisplayName: 유리제작기
+				Tooltip:
+					'''
+					90% 확률로 젤을 소모하지 않는다
+					가끔 근처 목표에 모이는 뜨거운 유리 조각을 발사한다
+					'''
+			}
+
+			Dyes: {
+				ProfanedCrystalDye: {
+					DisplayName: 부정당한 수정 염료
+					Tooltip: ""
+				}
+			}
+
+			NuclearTerrorRelic: {
+				DisplayName: 핵폐기물 테러 유물
+				Tooltip: ""
+			}
+
+			SakuraTreetop: {
+				DisplayName: 벚나무 꼭대기
+				Tooltip: ""
+			}
+
+			Weapons: {
+				Rogue: {
+					WanderersShell: {
+						DisplayName: 방랑자의 껍질
+						Tooltip:
+							'''
+							적에게 날아갔다가 튕겨져 나오는 바다 껍질을 퍼뜨린다
+							스텔스 스트라이크로 남은 모든 포탄이 간헐천을 터뜨린다
+							벌어진 쪽이 너무 날카로워 귀 근처엔 둘 수 없다
+							'''
+					}
+
+					StormMaidensRetribution: {
+						DisplayName: 폭풍소녀의 보복
+						Tooltip:
+							'''
+							붉은 번개가 급류하는 창을 발사한다
+							스텔스 스트라이크로 적에게 세 개의 창을 발사하며 적과 충돌하면 번개를 방출한다
+							막대한 능력으로 단련된 폭풍의 여신이 휘두르는 신성한 창
+							무기 자체가 영원한 비참함, 후회, 애도의 메아리를 울리는 것 같다
+							'''
+					}
+
+					Dreamtastic: {
+						DisplayName: 몽환상
+						Tooltip:
+							'''
+							적에게 에너지 볼트를 발사하는 두 멍청이를 소환한다
+							또한 책도 에너지 볼트를 발사한다
+							두 몽환상 스타들의 풍요로운 모험과 이야기를 기록한 책이다
+							넌 멍청이다
+							'''
+					}
+				}
+			}
+
+			ProfanedGardenLocationSetter: {
+				DisplayName: 부정당한 정원 위치 설정기 (디버그)
+				Tooltip:
+					'''
+					부정당한 정원의 작동 문제 해결 기기입니다
+					정원 중앙에 있는 부정당한 액자 타일의 중앙 하단에 좌클릭하세요
+					이는 해당 지점을 중심으로 정원 위치를 올바르게 배치 혹은 조정합니다
+					우클릭으로 이전 위치로 되돌릴 수 있습니다
+					'''
+			}
+
+			DeusMonolithItem: {
+				DisplayName: 아스트랄 차원 모노리스
+				Tooltip: ""
+			}
+
+			ForbiddenArchivesLocationSetter: {
+				DisplayName: 금지된 아카이브 위치 설정기 (디버그)
+				Tooltip:
+					'''
+					당신의 아카이브가 심연에 의해 파괴되었을 경우 이 기기를 사용하세요
+					끝없는 공허가 자연적으로 생성되게 하기 위해 던전 아레나 중앙에 마우스 왼쪽 버튼을 클릭하세요
+					우클릭으로 이전 위치로 되돌릴 수 있습니다
+					'''
+			}
+
+			Perditus: {
+				DisplayName: 페르디투스
+				Tooltip:
+					'''
+					{$CommonItemTooltip.SummonTagDamage}
+					{1}% 소환 태그 치명타 확률
+					{$CommonItemTooltip.Whips}
+					'''
+			}
+
+			Punctus: {
+				DisplayName: 푼크투스
+				Tooltip:
+					'''
+					좌클릭 시 창을 발사하며, 적에 피격되면 창이 부서진다. 창의 잔해는 암석으로 변해 최대 6개까지 주변에 궤도를 형성한다.
+					우클릭 시 창과 함께 바위를 모두 발사한다. 돌이 3개 이상일 때, 좌클릭 공격이 적을 추적한다. 돌이 6개일 땐, 날아가는 돌이 대신 적을 추적한다.
+					[c/ffbf49:가장 독실하고 강력한 추종자들에게만 발견되는 부정당한 창]
+					'''
+			}
+
+			ProfanedTempleBackgroundWall: {
+				DisplayName: 부정당한 사원 배경 벽
+				Tooltip: ""
+			}
+		}
+
+		Keybinds: {
+			"Wayfinder Create Key.DisplayName": 길잡이 창조 키
+			"Wayfinder Destroy Key.DisplayName": 길잡이 파괴 키
+		}
+
+		MusicDisplay: {
+			ForgottenWinds: {
+				DisplayName: 잊혀진 바람 (Forgotten Winds)
+				Author: Toasty 제작
+			}
+
+			UnholySanctuary: {
+				DisplayName: 불결한 안식처 (Unholy Sanctuary)
+				Author: Toasty 제작
+			}
+
+			SignusAmbience: {
+				DisplayName: ???
+				Author: Dominic 제작
+			}
+		}
+
+		// Will use the CalamitasShadowClone.DisplayName field. If you only have {0} here, then it must be wrapped in "".
+		NameOverrides: {
+			CalamitasShadowClone.EntryName: "{0}"
+			GreatSandShark.EntryName: 타우로스
+		}
+
+		NPCs: {
+			ColossalSquidTentacle.DisplayName: 촉수
+			DepthFeeder.DisplayName: 깊이 공급기
+			Herring.DisplayName: 청어
+			LionfishEnemy.DisplayName: 쏠배감펭
+			DeusSpawn.DisplayName: 데우스 소환
+			BrainIllusion.DisplayName: 크툴루의 뇌
+			BrainIllusion2.DisplayName: 크툴루의 뇌
+			SoulSeeker2.DisplayName: 소울 시커
+			LightSnuffingHand.DisplayName: 가벼운 숨쉬기 그림자 손
+			AresEnergyKatana.DisplayName: XF-09 아레스 에너지 카타나
+			AresPulseCannon.DisplayName: XF-09 아레스 펄스 캐논
+			RedPlasmaEnergy.DisplayName: 플라즈마 구체
+			RedirectingBubble.DisplayName: 거품
+			ExplodingServant.DisplayName: 크툴루의 하인
+			GolemFistLeft.DisplayName: 골렘 주먹
+			GolemFistRight.DisplayName: 골렘 주먹
+
+			BereftVassal: {
+				DisplayName: 아르고스, 빼앗긴 가신
+
+				BossChecklistIntegration: {
+					SpawnInfo: 사막 중심부에 있는 받침대에 [i:CalamityMod/SandstormsCore]를 사용하세요.
+					EntryName: 빼앗긴 가신
+				}
+			}
+
+			Ninja.DisplayName: 닌자
+			BuilderDroneBig.DisplayName: 큰 건축 드론
+			BuilderDroneSmall.DisplayName: 작은 건축 드론
+			ExplosivePlagueCharger.DisplayName: 폭발 역병 충전기
+			PlagueNuke.DisplayName: 역병 핵무기
+			SmallDrone.DisplayName: 작은 드론
+			PlanteraPinkTentacle.DisplayName: 플렌테라의 촉수
+			PolterghastLeg.DisplayName: 유령의 다리
+			EtherealHand.DisplayName: 에테르의 손
+			HealerShieldCrystal.DisplayName: 신성한 방패
+			SplitBigSlime.DisplayName: 불안정한 슬라임 소환
+			SplitBigSlimeAnimation.DisplayName: 불안정한 슬라임 소환
+			ShadowDemon.DisplayName: 그림자 히드라
+			GolemArenaPlatform.DisplayName: 골렘 아레나 플렛폼
+			CalamitasShadowClone.DisplayName: 칼라미타스의 잊혀진 그림자
+			CataclysmShadow.DisplayName: 카탈리즘의 잊혀진 그림자
+			CatastropheShadow.DisplayName: 카타스트로피의 잊혀진 그림자
+		}
+
+		PetDialog: {
+			AsterSummon1: 너가 나 없이 살 수 있겠냐구? 다시 생각해봐!
+			AsterSummon2: 이야하! 내가 돌아왔다.
+			AsterSummon3: 어우, 서판 안에 먼지가 가득해...
+			AsterSummon4: 조심해, 난 특별한 작은 친구라구.
+			AsterSummon5: 드디어 돌아왔다! 이제 다시 대혼란의 시간이다!
+			AsterSummon6: 게이머들은 죽지 않아. 리스폰하지.
+			AsterSummon7: 으에!
+			AsterPassive1: 정말 아름다운 날이야. 새들은 지저귀고, 꽃들은 피어나고...
+			AsterPassive2: 나랑 같이 꽃 꺾으러 갈래?
+			AsterPassive3: 저기, 폭탄을 어디에 두는 거야?
+			AsterPassive4: 참으로 지루한 날이야.
+			AsterPassive5: 빨리! 재밌는 거 좀 하자!
+			AsterPassive6: 전우여, 다음 의제은 무엇인가?
+			AsterPassive7: 반짝반짝!
+			AsterBossSpawn1: 헤, 이번건 빨리 끝나겠네.
+			AsterBossSpawn2: 이번엔 죽지 말자구, 알겠징?
+			AsterBossSpawn3: 왜 이렇게 빨리 돌아왔어?
+			AsterBossSpawn4: 이번에도 지면, 니 가구 다 먹어버릴꺼야. 이건 협박이야!
+			AsterBossSpawn5: 물약 잊지 말라구!
+			AsterBossSpawn6: 만약 지금 죽으면 20백금 줄게.
+			AsterBossSpawn7: 크헤, 이건 식은 죽 먹기지!
+			AsterBossSpawn8: 더 나아가서, 날 자랑스럽게 해달라구.
+			AsterBossSpawn9: 어떻게 끝장내는지 보여줘, 거물 친구.
+			AsterBossSpawn10: 기억해, 폴가딩은 언제나 할 수 있어!
+			AsterPet1: 저기 저 그...
+			AsterPet2: 으에?
+			AsterPet3: 좋아!
+			AsterPet4: 잠시만, 멈추지 마...
+			AEWJokeTip1: 그나저나 저 거지같던 바위는 대체 정체가 뭔데?!
+			AquaticScourgeTip1: 저 무법자의 빠른 헤엄을 이용하면 쉽게 가로지를 수 있을 거 같아!
+			AquaticScourgeTip2: 주변에 공간이 필요하면, 주변에 있는 유황 모래를 치워보는건 어때?
+			AquaticScourgeBubbleTip: 저 하얀 거품, 산성수의 좋은 회복 공간으로 쓸 수 있을 거 같아!
+			AquaticScourgeAcidTip: 물이 거의 끓어오르고 있어. 나같으면 튀겨지지 않기 위해서라도 다시 올라가야 겠는걸!
+			AquaticScourgeTyphoonTip: 저 무법자.. 아직 끝나지 않은 거 같은데, 잘 피하는 게 좋을 거 같아!
+			AquaticScourgeBonkJokeTip: 깡!
+			AstrumAureusTip1: 조금은 가까이 다가가보자. 방심하다 기습당할 수도 있잖아!
+			AstrumAureusTip2: 저 충격파를 조심해! 이땐 땅 위에 있는 게 가장 나을거야.
+			AstrumDeusTip1: 저 뱀 녀석 정말 빠른데! 기동력을 잘 맞춰야만 물리칠 수 있을거야!
+			AstrumDeusShellTip: 저거 방금 겉껍데기를 벗어던졌어. 조심해, 아마 더 빨라질꺼야!
+			AstrumDeusDarkBurstTip: 볼트를 피할 때 당황하면 안 돼!
+			AstrumDeusRubbleTip: 파편 피하는 거 잊지 마! 위에서 비처럼 내릴 거야!
+			BrimstoneElementalLaserTip: 광선이 네 다음 위치를 예측하고 나오는 거 같으니까, 그걸 역으로 잘 이용해봐!
+			BrimstoneElementalRoseCircleTip: 가능하다면 영역의 중앙 쪽으로 가는 게 좋아. 가시들은 널 구석으로 내몰려고 할 거야!
+			BoCTip1: 크툴루의 뇌는 많은 예측과 속임수를 쓰며 공격하니까, 엄청 똑똑하게 플레이해야 해!
+			BoCTip2: 크툴루의 뇌는 환영놀이를 좋아하나 본데, 저 환영 사이에서 날아오는 진짜 위험에 집중해야 해!
+			BoCTip3: 크리퍼가 너한테 이코르를 쏟아붓기 시작하면 자주 움직이면서 피해 봐. 아마 여유가 좀 생길거야!
+			CalShadowTip1: 네 주변에 있던 마법의 고리는 뭐야? 이 고리의 효과를 조심하는 게 좋을 거 같아!
+			CalShadowBrosTip: 천천히 움직이면 그 녀석들의 공격은 피하기 엄청 쉬울 거야!
+			CalShadowFinalPhaseTip: 그녀는 모든 힘을 쥐어짜고 있지만… 주술이 전부 사라졌어! 이제야 진정으로 그녀에게만 집중할 수 있겠어!
+			CalShadowJokeTip1: 실망했겠지만, 저 여자 좀 봐봐! 다 타버렸네.
+			CVTip1: 전투가 시작될 땐 너무 많이 움직이진 마. 좋은 자리를 찾고 그 근처에서 움직이는 게 많은 도움이 될 거야!
+			CVTip2: 공허의 공격은 피하려면 기동성이 좋아야겠어. 화면에 보이는 모든 발사체를 조심해!
+			CVPortalTip: 저 차원문들이 뭔가를 일으키려 하고 있어! 빨리 공허쪽으로 가야 해!
+			CVEnergyBurstTip: 저게 너무 많은 에너지를 뿜어내고 있어! 가장자리로 가서 위 아래로 움직이면서 피해!
+			CVEnergyBurstTip2: 저 구체가 나선형으로 돌고 있는 거 같아! 너도 같이 돌아!
+			CVEnergyBurstTip3: 침착하고 원을 그리며 도는 거야! 집중해!
+			CVEnergyChainsTip: 저 사슬들로는 더 이상 버틸 수 없을 거니까, 마음의 준비를 하는 게 좋을 거야!
+			CrabulonTip1: 크래뷸론은 세 번째로 뛸 때만 포자를 발사하니까, 뛰는 횟수를 계속 세고 있어봐!
+			CrabulonTip2: 저 게의 버섯들도 잘 보고 있어야 해. 한 눈 팔고 있다간 그대로 당할 거라구!
+			CrabulonTip3: 크래뷸론이랑 같은 층에 있는게 나을 수도 있어. 허공에다가 자꾸 세균성 질병덩어리를 흩뿌리잖아...
+			CrabulonTip4: 저 게는 생각보다 똑똑해. 너가 높은 곳으로 가려 하면, 저 게는 널 잡으려고 더 높이 뛸 거야!
+			CrabulonClawTip: 크래뷸론은 내부가 노출되면 자신을 필사적으로 보호하려고 할 거야 - 움직이기 힘들다면 아예 조금 뒤로 빠져봐!
+			CrabulonJokeTip1: 셋이서 나눠가지기엔 남은 버섯도 적고, 이제 누가 이겼는지 가릴 수 있겠어.
+			CryogenTip1: 보스가 위에 있을 땐 움직임을 최소화하는 게 좋을 거야. 그러면 경직된 게 좀 진정될 거야!
+			CryogenTip2: 얼음 기둥도 측면에서 얼음 단검으로 분열하니까, 조심해야 해!
+			CryogenJokeTip1: 참, 방금 껀 전혀 쿨하지 않았어!
+			CryogenJokeTip2: 하나도 안 떨려!
+			CryogenBlizzardTip: 눈보라가 양쪽에서 오로라 영혼들을 휩쓸고 있으니까, 옆으로 달릴 때 조심해야 해!
+			CultistTip1: 저 사람 정말 광신도네. 기동성을 끌어올리는 게 좋을 거 같아!
+			CultistIceBurstTip: 얼음 포격이 터지기 전에, 경계 안으로 들어가야 해!
+			CultistLightningTip: 번개는 네 앞에서 터질 거야! 그걸 이용해봐!
+			DeerclopsTip1: 외눈사슴은 근시라 너한테 계속 다가갈거야. 구석에 몰리면 안 돼!
+			DeerclopsTip2: 외눈사슴은 정해진 패턴으로 공격하니까, 행동 방식을 연구하고 거리를 유지하며 공격해!
+			DeerclopsTip3: 거리 유지가 클리어의 열쇠야!
+			DeerclopsCharlieTip: 만약 이 그림자들이 외눈사슴 눈 주위에 모이도록 놔두면, 빛의 힘이 부족해 어둠이 퍼지는 걸 막을 수 없으니까, 그림자를 쫓아내야 해!
+			DeerclopsJokeTip1: 사슴신이시여...
+			DeerclopsDefeatTip: 이제 슬슬 막을 내릴 시간인가보네!
+			DestroyerTip1: 최후의 결전을 준비해야 해! 원격으로 발사되는 붉은 레이저를 주시하며 안전한 곳으로 돌진하는 게 좋을 거야!
+			DestroyerTip2: 저 파편들 되게 빨리 날아오네? 파괴자랑 같이 위로 가려고 하면 좀 더 보기가 쉬울 거야!
+			DestroyerTip3: 저 돌격 상당히 강해보이는데, 램 형태나 재빨리 움직이는 방법이 패턴 파훼에 도움이 될 수 있을거야!
+			DSTip1: 저 무법자가 엄청난 먼지 기둥을 치우기 전엔 괴성을 지르는 거 같았어. 친절한 친구네!
+			DSTip2: 갈고리 기술은 무법자의 돌진으로부터 벗어나는 데에 매우 도움이 될 거야.
+			DSFinalPhaseTip: 내 생각엔 이 독수리들이 어떻게든 여기서 식사를 해결하려 할 텐데...
+			DSJokeTip1: 무법자의 오아시스를 자처해줘버렸네...
+			DoGTip1: 저 포식자의 광기에는 박자가 서려 있는 거 같아. 특유의 박자를 이용해 싸워!
+			DoGLaserTip: 으악, 레이저가 너무 많아! 천천히, 정확하게 움직이는 게 최선의 방법일 거 같네...
+			DoGRoDTip: 아무래도 원격 마법을 조작하는 거 같은데, 여기선 불화의 지팡이는 소용이 없겠어!
+			DoGChargeTip: 쫄지 말고, 두려움을 이겨내 포식자의 입으로 돌진해버려!
+			DoGDashTip: 얘한텐 대시 장신구가 정말 큰 도움이 될꺼야...
+			DoGBashTip: 얘 머리랑 직접 격돌하는거, 좋은 생각이지 않아?
+			DoGJokeTip1: 쟤 뭐하냐?
+			ExoMechComboTip: 힘을 합치려는 거 같아. 조심해야 해!
+			DraedonChooseTip1: 나쁘지 않은 선택이네!
+			DraedonChooseTip2: 만약 그때 조합이 힘들었으면, 다른 조합으로 해보는 건 어때?
+			AresTip1: 엑소 과부화 공격 중엔 가까이 다가가는 게 가장 좋을 거야. 안 그러면 주위를 돌아야 할 때 힘들 테니까!
+			AresTip2: 아레스는 엄청난 슈퍼컴퓨터를 달고 있어서, 저 팔들은 예측을 엄청 잘해! 그걸 역으로 이용하면 우리가 유리해지지 않을까?
+			ExoTwinsTip1: 저 엑소-트윈즈는 훌륭하게 동기화되어 있는데, 저 기계들을 능가할 박자를 찾아보는게 어때?
+			ThanatosChargeTip: 쫄지 말고, 두려움을 이겨내 타나토스의 머리 철판으로 돌진해버려!
+			DragonfollyTip1: 어리석은 용은 널 혼란에 빠뜨리고 싶은 거 같은데, 우린 그런 데에 말려주지 않지! 차분히 상황을 분석해봐!
+			DragonfollyTip2: 저 엄청 큰 붉은 번개 기둥은 아래로 피할 수 있어!
+			Dragonfollytip3: 붉게 변할 때를 조심해야 해 - 가까이로 가지 못하면, 네 바로 뒤에서 날뛸 거야!
+			DragonfollyBoltTip: 저 정적인 볼트들이 너를 향해 날아오는 거 같아! 항상 경계하고, 번개 신호에 당하지 않도록 조심해야 해!
+			DreadnautilusSummonItemTip: 드레드노틸러스가 특별한 빨간 미끼를 거절하지 못한다고 들었는데, 혹시 가지고 있어?
+			DreadnautilusTip1: 저 박쥐들은 널 어떻게든 해하려 하지만, 그렇게 민첩하진 못한 거 같아. 잘 쫓아내봐!
+			DreadnautilusJokeTip1: 너가 얼마나 많이 죽었었는지 생각하면, 머리껍데기가 깨질 거 같아...
+			DreadnautilusJokeTip2: 또 패배했지만, 두려워 말라! 언젠가 저 껍데기를 갈라버릴 수 있을 테니까!
+			DukeFishronRazorbladeTip: 최선을 다해 저 칼날들을 피하고 정신 바짝 차려!
+			DukeFishronTidalWaveTip: 긴 질주가 어디서 멈추는지 지켜봐봐! 해일에 휩쓸릴 수도 있어!
+			EoLTip1: 대부분의 공격은 생각보다 많이 움직여서 피할 필요가 없으니까, 침착하게 움직여!
+			EoLMoonTip: 가까이 붙어야 해! 우린 달빛과 싸우고 있어서, 도망칠 수 없어!
+			EoLJokeTip1: 내가 원래부터 무지개를 조금 좋아하긴 했는데, 이번 공격은 진짜 미쳤어! 진짜 개죽음-아. 말실수할 뻔했네.
+			EoWTip1: 플랫폼을 많이 쌓아두면 저주받은 불꽃들의 폭발을 피하는 데에 큰 도움이 될 거 같아!
+			EoWTip2: 만약 세상을 먹는 자가 기어가는 속도를 늦추면 너도 같이 늦추는 게 좋아. 안 그러면 불쾌한 가시에 부딫히게 될 거야!
+			EoWRainTip: 세상을 먹는 자가 구름을 생성하면 속도를 늦추고 표류할 거야! 조심하면서 공간을 확보하자.
+			EoWJokeTip1: 아무리 봐도 세상보다 많이 먹는 자 같은데.
+			EoCTip1: 그 이빨 공 근처에 있어야 해! 저 공이 쏘는 이빨은 생각보다 먼 곳을 겨냥하고 있어!
+			EoCTip2: 저 눈의 하인을 죽이려고 애 쓸 필요 없어. 죽기도 전에 너로부터 도망칠 거니까!
+			EoCJokeTip1: 눈 앞이 깜깜해지다니, 믿을 수가 없어!
+			EoCJokeTip2: 비나 눈이나, 죽기 딱 좋은 날씨네...
+			GolemTip1: 골렘의 눈 색은 공격의 종류에 따라 변해. 눈 크게 뜨고 확인해보라구!
+			GolemTip2: 플랫폼에 올라가는 게 힘들면, 벽에 갈고리를 걸어 날개의 비행 시간을 초기화해봐!
+			GolemJokeTip1: 우린 끔찍한 시간을 보내게 될 거야...
+			HiveMindTip1: 지금은 상대방의 움직임을 잘 파악하면서, 신호들을 활용해서 우위를 점해봐!
+			HiveMindTip2: 비 패턴을 충전중인 하이브 마인드를 향해 달려가 비 패턴을 치우면, 아레나를 깨끗하게 유지하는 데에 도움이 될 거야!
+			HiveMindTip3: 하이브 마인드를 일찍 공격하면 다음 공격이 빨리 시작돼. 공격하기 전에 쿨다운을 기다리는 게 좋을 거야!
+			HiveMindFinalPhaseTip: 아직도 안 끝났어?!
+			HiveMindJokeTip1: 저건 먹히지 않았지만, 걱정 말라! 하이브는 다 계획이 있으니까!
+			HiveMindJokeTip2: 원래 이쯤되서 한방 먹었다는 얘기라도 해줘야 겠지만, 지금은 마인드를 다잡느라 바빠서...
+			KingSlimeTip1: 킹 슬라임의 점프 주기를 외워봐! 다음엔 어떻게 움직여야 할 지에 대해 조금 더 수월해질거야.
+			KingSlimeTip2: 저렇게 높은 점프라, 밑으로 피할 수 있을 거 같은데?
+			KingSlimeJewelTip: 저 왕관 보석은 확실히 위험해보여! 항상 같은 주기로 발사한다는 걸 명심한 채, 타이밍을 잘 맞춰야 해!
+			KingSlimeNinjaTip: 닌자는 멀리 있을수록 더 많은 수리검을 쏘니까, 너무 멀리 가면 안 돼!
+			KingSlimeJokeTip1: 참 끈적한 싸움이네...
+			KingSlimeDefeatTip: 잘 가라, 끈적아!
+			AnahitaTip1: 아나히타로부터 공격을 잘 피하다 보면, 아나히타의 음자리표 공격에 틈이 생겨서 피하기 쉬워져!
+			AnahitaFinalPhaseTip: 복습이야! 전에 했던 거랑 똑같이 해!
+			LeviathanTip1: 운석은 모두 같은 방향으로 갈라져. 그걸 이용해 봐!
+			LeviathanFinalPhaseTip: 복습이야! 저 보스보다 너 자신에 더 집중해!
+			MoonLordTip1: 저 눈알들은 요리저리 피해야 하는 공격을 해! 그럴 때, 패닉에 빠지면 안 돼!
+			MoonLordLaserTip: 힘내! 느리게 발사되는 볼트가 같이 발사될 거야!
+			MoonLordTip2: 공간 관리 잘 하는거 잊지 마. 안 그러면 구석으로 몰릴 수 있어!
+			MoonLordBlackHoleTip: 문 로드가 많이 화난 거 같아! 다른 발사체들은 피하면서도, 저 블랙홀을 건들이지 마!
+			MoonLordJokeTip1: 징징이 이모티콘
+			OldDukeTip1: 샤크론이나 이빨 공이 나타났는지 아닌지 기억해야 할 거야. 나중에 그 잔해에 놀라지 않으려면 말이지!
+			OldDukeTip2: 저 물고기한테는 이동 속도가 엄청 중요할거야!
+			OldDukeFinalPhaseTip: 저 녀석이 순간이동할 때를 조심해야 해. 안 그러면 좀 많이 놀랄 거니까!
+			OldDukeRealFinalPhaseTip: 대시랑 피하기, 둘 모두 잘 활용해야 할 거야!
+			OldDukeDashTip1: 진짜 저 물고기한테 대시를 쓰지 않을 거야?
+			OldDukeDashTip2: 대시 관련 장신구가 저어엉말로 필요할 거 같아...
+			PBGDroneJailTip: 저 드론이 널 가두려 하고 있어. 저 드론 중 하나를 부수면 해방될 수 있을 거야!
+			PBGDroneBuildTip: 정글 전체가 혼돈에 빠지기 전에, 저 건설 드론들을 부숴버려!
+			PerforatorsTip1: 저 하이브는 엄청난 양의 이코르를 분출하니까, 공간 관리가 아주 중요할 거야!
+			PerforatorsWorm1Tip: 작은 퍼포레이터의 발사체는 가속되면서 점점 빨리 떨어지니까, 당황하면 안 돼!
+			PerforatorsWorm2Tip: 이 퍼포레이터는 저 친구만큼 공격적이진 않은 거 같으니까, 널 감싸기만 하게 냅두는 건 어때?
+			PerforatorsProjectilesTip: 침착함을 유지하는 게 느린 발사체를 피할 때 더 나을 거야!
+			PerforatorsFinalPhaseTip: 아직도 안 끝났어?!
+			PlanteraTip1: 저 촉수가 퍼질 때, 영향이 끼쳐지지 않는 곳을 찾아 봐!
+			PlanteraPlanteraTip: 촉수가 퍼지는 동안, 저 구름을 조심하는 게 좋을 거야. 촉수의 틈을 찾으려면 구름을 최대한 피해야 하니까!
+			PlanteraFinalPhaseTip: 플렌테라가 자신의 모든 걸 쏟아붓고 있으니까, 조심해!
+			PlanteraJokeTip1: 부끄럽네, 식물 때문에 죽다니.
+			PlanteraJokeTip2: 내가 말할 수 있는 건, 플렌테라가 이기고 있다는 거야 - 근데 누가 저 포자를 관리하는 건데?
+			PolterghastTip1: 특정 대시는 회전 고리 공격에 많은 도움이 돼. 빠르게 패턴을 파훼할 수 있거든!
+			PolterghastTip2: 폴터가스트의 다리 중 하나가 빨개지면, 재빨리 뒤로 물러나. 우릴 후리고 가속되는 발사체를 방출할 거야!
+			PolterghastDesperationPhaseTip: 폴터가스트의 영혼들이 풀려났어! 하지만 저들은 우릴 딱히 반기지 않는 거 같네...
+			ProvidenceDawnWarningTip: 프로피던스랑 싸울 때 새벽인지 아닌지 꼭 확인해야 해!
+			ProvidenceDuskWarningTip: 프로피던스랑 싸울 때 황혼인지 아닌지 꼭 확인해야 해!
+			PrimeTip1: 저 친구의 팔은 너가 향하려는 곳을 겨누고 있으니까, 팔이 무언가를 하기 직전에 방향을 틀면 분명 계산이 틀어질 거야...
+			PrimeTeslaTip: 저 푸른 테슬라 광물들은 폭발하면서 가스가 퍼질 거야. 조심해!
+			PrimeJokeTip1: 자 이게 하지 말아야 할 뼈때리는 예시야..
+			ProfanedRoDTip: 부정당한 마법이 불화의 지팡이를 작동하지 못하게 막아버리고 있어!
+			ProfanedDefenderTip: 오오, 정말 화났나봐! 긴장 늦추면 안 돼!
+			ProfanedFlappyBirdTip: 쟤네는 오른쪽에서 방어하고 있지만, 거기까지 가면 아마 걔들의 방어를 뚫어버릴 수 있을 거야!
+			ProfanedFlappyJokeTip: 방화벽의 맹공격은, 공중 점프밖에 못하는 한 게임을 생각나게 해. 그래도 날개가 있으니까 다행이지, 그렇지?
+			ProfanedFlappyBirdEndTip: 쟤네는 정말 좋은 팀이네! 모든 애들을 한 번에 처리하고픈 마음은 알지만, 차분하게 하는 게 최선일거야!
+			ProfanedHealerDeathTip: 곧 구체화될 거야! 한 눈 안 팔게 조심하라구!
+			ProvidenceTip1: 저 친구의 공격 주기는 음악 주기와 비슷해. 음악을 전투에 잘 활용해봐!
+			ProvidenceTip2: 회피에 집중해. 계속 공격하고 있을 필요는 없잖아! 생존하지 못한다면 해를 입히는 게 무슨 소용이 있겠어?
+			ProvidenceExplosionTip: 저 화염구는 용암에 부딪힐 때만 폭발하는 거 같으니까, 화염구의 방향을 틀어야 할 거 같아!
+			ProvidenceFinalPhaseTip: 프로비던스가 뭔가를 준비하고 있는 거 같아!
+			QueenBeeTip1: 저 발사된 꿀은 탄력이 있어서, 너무 빨리 움직이면 어디로든 튀게 될 거야!
+			QueenBeeTip2: 저 말벌들을 제거하는 게 최우선순위야!
+			QueenBeeTip3: 알다시피, 저 독은 상당히 병적이야. 위석(Bezoar)을 검색해 보는게 어때?
+			QueenBeeJokeTip1: 벌을 받다니, 생각도 못 했어!
+			QueenBeeJokeTip2: 우으윽, 벌벌 떨리는구만...
+			QueenSlimeTip1: 달릴 수 없을 거 같으면, 달리지 마! 움직임을 최소화하는게 많은 도움이 될 거야!
+			QueenSlimeBladeBeamTip: 저건 뭐야?! 당장 튀어! 난 원자 단위로 분해되기 싫다고!
+			QueenSlimeCrystalTip: 저 결정들은 같은 간격으로 놓여 있어... 계속 같은 방식으로 피할 수 있겠는데!
+			RavagerTip1: 궤멸자의 공격 중 일부는 가까이 있는 게 좋아. 도망가지 말라구!
+			RavagerTip2: 바닥에 남아있는 얼룩들을 잘 조절하지 않으면, "바닥은 용암이야" 게임도 같이 하게 될 거야!
+			SignusTip1: 시야가 검게 변할 때는 특히 집중해야 해 - 생각보다 많은 위험이 주위에 도사리게 될 테니까!
+			SignusShadowSlashTip: 주위를 잘 봐, 아직 널 속일 카드가 남아있을 수 있어!
+			SignusBombTip: 저 폭탄은 너한테 날아오는 쿠나이와 함께 폭발할 거야. 조심해야 해!
+			SkeletronTip1: 너가 생각하는 거랑은 다르게, 그림자불꽃 벽으로 달려가는 건 소용이 없으니까, 진정하라구!
+			SkeletronTip2: 스켈레트론이 손으로 화염구를 퍼부어도 당황하지 마! 점프하면서 침착함을 유지해!
+			SkeletronTip3: 저 귀환하는 해골은 한 바퀴를 도는 데에 시간이 오래 걸리니까, 멀리 도망가는 것보단 원래 있던 곳에 머무르는 게 더 나을 수도 있어!
+			SkeletronJokeTip1: 터어어어어얼렸구나!!!
+			SlimeGodTip1: 저것들은 그렇게 지능이 좋지는 않아 보이는데, 어떻게 잘 속이면 더 높게 점프하기가 수월해지지 않을까?
+			SlimeGodTip2: 조금 쫄 수도 있을 거 같네! 저 움직임을 따라한다면 상황이 너에게 조금 유리하게 흘러갈 수 있을 수도?
+			StormWeaverTip1: 저 구름 포격에 놀랄 수 있어! 집중해 - 저 폭풍 재앙이 공격을 퍼붓는 데에는 집중하고 있지만, 너한테 돌진하는 데에는 별로 집중하고 있지 않은 거 같아!
+			SCalJokeTip1: 내 마녀 모자가 탐난다고? 그 마녀의 옷차림이랑 깔맞춤하는 것도 조금 재밌을 거 같은데...
+			SCalTip1: 저 마녀가 석궁을 꺼낼 때 가까이 다가가면, 마녀가 어디를 겨냥하고 있는지 알 수 있어!
+			SCalSkullTip: 두개골이 너무 많지만, 널 직접적으로 겨냥하는 건 아닌 거 같아! 저 사이로 들어가봐!
+			SCalDesperationTip: 지옥같은 게 전부 풀려나더라도, 피하는 데에 집중해야 해!
+			SCalFireSpinTip: 모든 발사체에 쫄지 말고, 이 불타는 전투가 진행되는 동안에도 침착함을 유지해!
+			SCalFireChargeTip: 저 폭탄은 정말 많은 범위를 겨냥하고 있어! 너가 피하기 쉬운 곳으로 유인해봐!
+			TwinsTip1: 쟤가 돌면서 공격하는 게 피하기 힘들어? 너도 돌면서 공격해! 같이 돌아버려!
+			TwinsFinalOptionTip: 트윈즈는 위험 상황을 대비해 각자 최후의 수단 절차를 가지고 있어. 일단 하나에만 먼저 집중해!
+			TwinsFinalPhaseTip: 조심해, 남은 트윈즈가 모든 힘을 다해 널 공격할 거야! 포기하면 안 돼!
+			WoFTip1: 반대 방향으로 도망가는거 잊지 마!
+			WoFTip2: 떨어져있는 눈은 더 위협적일 수 있지만, 특정한 지점에만 쏴서 다행인 거 같아!
+			WoFTip3: 우웩, 저 괴랄한 입이 터져서 나는구나?! 직접 지옥불에 태워버리고 싶어…
+			WoFJokeTip1: 뭐, 괴상한 생명체였어! 그래도 가이드 괴롭히기는 못 참지!
+			YharonPreHealTip: 거의 다 해치웠어! 확실히 벼랑 끝에 몰린 거 같네!
+			YharonPostHealTip: 아..
+			YharonSpeedTip: 야론이 하이퍼 대시를 시작할 때를 잘 외워놔. 방심하다간 큰 코 다친다구!
+			YharonFlashbangTip: 플래시뱅에 당황하지 마! 불씨의 위치를 유심히 봐야 해!
+			YharonCarpetBombTip: 깔려있는 폭탄이 불타오르는 동안엔 아레나의 가장자리에 있는 게 좋을 거야. 그래야 피할 수 있을 테니까!
+			YharonJokeTip1: 앤드 이프 아이 슈드 다이 비포 유 컨 티 뉴~ 유 셸 헤... 잠깐, 죽었어? 아 진짜, 노래 끊겼잖아!
+		}
+
+		Projectiles: {
+			AbyssalIce.DisplayName: 심연의 얼음
+			BoxJellyZap.DisplayName: 젤리 기력
+			DevilfishExplosion.DisplayName: 데빌버스트
+			EidolistElectricOrb.DisplayName: 일렉트릭 구체
+			EidolistElectricOrb2.DisplayName: 일렉트릭 구체
+			EidolistIce.DisplayName: 심연의 얼음
+			EidolistIceBomb.DisplayName: 심연의 얼음
+			EidolistLightning.DisplayName: 번개
+			EidolistRitual.DisplayName: 의례
+			ElectricPulse.DisplayName: 일렉트릭 펄스
+			InkBlob.DisplayName: 잉크 방울
+			InkBolt.DisplayName: 잉크
+			MiniReaperShark.DisplayName: 사신 상어
+			ReaperSharkIceBreath.DisplayName: 얼음 호흡
+			SimpleAbyssalSoul.DisplayName: 심연의 호흡
+			AbyssalSoul.DisplayName: 심연의 호흡
+			AbyssalSoulTelegraph.DisplayName: 심연 신호
+			AEWIllusionTelegraphLine.DisplayName: 신호
+			AEWNightmareWyrm.DisplayName: 유령 고룡
+			AEWSplitForm.DisplayName: 원시 고룡
+			AEWTelegraphLine.DisplayName: 신호
+			CircleCenterTelegraph.DisplayName: 신호
+			ConvergingLumenylCrystal.DisplayName: 신성한 루미넬
+			DivineLightBolt.DisplayName: 신성한 빛 볼트
+			DivineLightLaserbeam.DisplayName: 신성한 빛 데스레이
+			DivineLightOrb.DisplayName: 신성한 빛 구체
+			HorizontalRayTerminus.DisplayName: 세로 레이저 테르미누스
+			LightCleaveTelegraph.DisplayName: 신호
+			PsychicBlast.DisplayName: 사이킥 블래스트
+			TerminusDeathray.DisplayName: 원시의 빛
+			AcceleratingArcingAcid.DisplayName: 산성
+			AcidBubble.DisplayName: 산성 거품
+			AquaticScourgeBodySpike.DisplayName: 방사능 가시
+			AquaticScourgeGore.DisplayName: 뿔
+			FallingAcid.DisplayName: 산성
+			LeechFeeder.DisplayName: 피흡수체
+			RadiationPulse.DisplayName: 방사선 파동
+			SulphuricGas.DisplayName: 유황 산성 가스
+			SulphuricGasDebuff.DisplayName: 유황 산성 가스
+			SulphuricTornado.DisplayName: 유황 태풍
+			SulphurousRockRubble.DisplayName: 유황 파편
+			WaterClearingBubble.DisplayName: 산성 거품
+			AstralBlueComet.DisplayName: 아스트랄 혜성
+			AstralLaserInfernum.DisplayName: 아스트랄 레이저 연발
+			AstralMissile.DisplayName: 아스트랄 미사일
+			BlueLaserbeam.DisplayName: 아스트랄 데스레이
+			MissileTelegraphLine.DisplayName: 신호
+			OrangeLaserbeam.DisplayName: 아스트랄 데스레이
+			AstralBlackHole.DisplayName: 아스트랄 블랙홀
+			AstralConstellation.DisplayName: 별
+			AstralCrystal.DisplayName: 아스트랄 수정
+			AstralFlame2.DisplayName: 아스트랄 불꽃
+			AstralPlasmaFireball.DisplayName: 아스트랄 플라즈마 불꽃
+			AstralPlasmaSpark.DisplayName: 아스트랄 플라즈마 스파크
+			AstralRubble.DisplayName: 아스트랄 파편
+			AstralSparkle.DisplayName: 아스트랄 스파클
+			AstralTelegraphLine.DisplayName: 신호
+			AstralVortex.DisplayName: 소모된 소용돌이
+			DarkGodLaser.DisplayName: 반물질 데스레이
+			DarkStar.DisplayName: 어둠의 별
+			InfectionGlob.DisplayName: 감염된 액체덩어리
+			MassiveInfectedStar.DisplayName: 소모된 별
+			BloodGeyser2.DisplayName: 이코르 간헐천
+			IchorSpit.DisplayName: 이코르
+			PsionicLightningBolt.DisplayName: 사이오닉 번개
+			PsionicOrb.DisplayName: 사이킥 에너지
+			Brimrose.DisplayName: 황미
+			BrimstoneDeathray.DisplayName: 유황 데스레이
+			BrimstoneFireball.DisplayName: 유황 불꽃
+			BrimstonePetal.DisplayName: 유황 꽃잎
+			BrimstonePetal2.DisplayName: 유황 꽃잎
+			BrimstoneRose.DisplayName: 유황 장미
+			BrimstoneSkull.DisplayName: 유황 해골
+			BrimstoneTelegraphRay.DisplayName: 유황 데스레이
+			HomingBrimstoneSkull.DisplayName: 유황 지옥폭파
+			RedFlameTelegraph.DisplayName: Fuck you nobody is going to ever see this name
+			AccentuationHexProj.DisplayName: 재앙의 주술
+			ArcingBrimstoneDart.DisplayName: 유황 다트
+			BrimstoneBomb.DisplayName: 유황 폭탄
+			BrimstoneBoomExplosion.DisplayName: 폭발
+			BrimstoneLightning.DisplayName: 유황 번개
+			BrimstoneMeteor.DisplayName: 유황 메테오
+			BrimstoneSlash.DisplayName: 유황 슬래시
+			CatharsisHexProj.DisplayName: 재앙의 주술
+			CatharsisSoul.DisplayName: 카타르시스의 불타는 영혼
+			CharredWand.DisplayName: 검게 탄 완드
+			ConvergingShadowSpark.DisplayName: 그림자 스파크
+			DarkMagicFlame.DisplayName: 어둠 마법의 불꽃
+			EntropyBeam.DisplayName: 엔트로피 광선
+			HauntingSoulSeeker.DisplayName: 소울 시커
+			HomingBrimstoneBurst.DisplayName: 유황 불꽃
+			IndignationHexProj.DisplayName: 재앙의 주술
+			LargeDarkFireOrb.DisplayName: 암흑 화염 구체
+			LingeringBrimstoneFlames.DisplayName: 유황 화염 구름
+			RisingBrimstoneFireball.DisplayName: 유황 폭탄
+			ShadowBlob.DisplayName: 그림자 구체
+			SoulSeekerResurrectionBeam.DisplayName: 네크로맨틱 광선
+			ThinBrimstoneSlash.DisplayName: 유황 슬래시
+			WeaknessHexProj.DisplayName: 재앙의 주술
+			ZealHexProj.DisplayName: 재앙의 주술
+			AcceleratingDarkEnergy.DisplayName: 암흑 에너지
+			CeaselessEnergyPulse.DisplayName: 끝없는 에너지 펄스
+			CeaselessVoidLineTelegraph.DisplayName: 선 원격 연결
+			CeaselessVoidShell.DisplayName: 금속 껍데기
+			CeaselessVortex.DisplayName: 끝없는 소용돌이
+			CeaselessVortexTear.DisplayName: 끝없는 균열
+			ConvergingDungeonRubble.DisplayName: 에너지 파편
+			EnergyTelegraph.DisplayName: 암흑 에너지 조각
+			GammaBurstLineTelegraph.DisplayName: 선 원격 연결
+			OtherworldlyBolt.DisplayName: 다른 세계식 볼트
+			RealitySlice.DisplayName: 현실의 균열
+			SpinningDarkEnergy.DisplayName: 암흑 에너지
+			TelegraphedOtherwordlyBolt.DisplayName: 다른 세계식 볼트
+			HomingSpore.DisplayName: 스포어
+			MushroomPillar.DisplayName: 버섯 기둥
+			SporeCloud.DisplayName: 스포어 가스
+			AimedIcicleSpike.DisplayName: 고드름 가시
+			AuroraSpirit.DisplayName: 오로라 영혼
+			AuroraSpirit2.DisplayName: 오로라 영혼
+			IceBomb2.DisplayName: 얼음 폭탄
+			IcePillar.DisplayName: 얼음 기둥
+			IceRain2.DisplayName: 얼음비
+			IcicleSpike.DisplayName: 고드름 가시
+			AncientDoom.DisplayName: 저주인
+			CultistFireBeamTelegraph.DisplayName: 신호
+			CultistRitual.DisplayName: 의례
+			DarkBolt.DisplayName: 암흑 볼트
+			DarkBoltLarge.DisplayName: 암흑 볼트
+			DarkPulse.DisplayName: 암흑 펄스
+			DeathExplosion.DisplayName: 폭발
+			DoomBeam.DisplayName: 데스 광선
+			FireballLineTelegraph.DisplayName: 신호
+			FireBeam.DisplayName: 불꽃 광선
+			IceMass.DisplayName: 얼음 덩어리
+			IceShard.DisplayName: 얼음 조각
+			LightBeam.DisplayName: 광선
+			LightBurst.DisplayName: 빛 파열
+			TeleportTelegraph.DisplayName: 신호
+			AcceleratingShadowHand.DisplayName: 그림자 손
+			ArenaIcicle.DisplayName: 긴 고드름
+			DeathAnimationShadowHand.DisplayName: 그림자 손
+			DeerclopsEyeLaserbeam.DisplayName: 화염광선
+			DeerclopsP2Wave.DisplayName: 폭발
+			GroundIcicleSpike.DisplayName: 얼음 가시
+			ShadowHandArena.DisplayName: 그림자 손
+			SpinningShadowHand.DisplayName: 그림자 손
+			SandBlastInfernum.DisplayName: 모래 폭파
+			Sandnado.DisplayName: 모래 토네이도
+			SandstormBlast.DisplayName: 모래 폭파
+			DestroyerBomb.DisplayName: 폭발
+			DestroyerPierceLaser.DisplayName: 불꽃 레이저
+			DestroyerPierceLaserTelegraph.DisplayName: 신호
+			EnergyBlast2.DisplayName: 에너지 폭파
+			EnergySpark.DisplayName: 붉은 상어
+			EnergySpark2.DisplayName: 붉은 상어
+			AcceleratingDoGBurst.DisplayName: 죽음의 화염
+			DoGChargeGate.DisplayName: 차원문
+			DoGDeathInfernum.DisplayName: 죽음의 광선
+			DoGPhase2IntroPortalGate.DisplayName: 차원문
+			DoGSpawnBoom.DisplayName: 폭발
+			RealityBreakPortalLaserWall.DisplayName: 차원문
+			RoDFailPulse.DisplayName: 폭발
+			AresBeamExplosion.DisplayName: 엑소버스트 폭발
+			AresBeamTelegraph.DisplayName: 감마 분해 광선 신호
+			AresCannonLaser.DisplayName: 엑소 불꽃 레이저
+			AresDeathBeamTelegraph.DisplayName: 엑소 과부화 신호
+			AresEnergyDeathray.DisplayName: 엑소 에너지 파열
+			AresEnergyDeathrayTelegraph.DisplayName: 엑소 에너지 파열 신호
+			AresEnergySlash.DisplayName: 엑소 에너지 슬래시
+			AresLaserDeathray.DisplayName: 데스레이저
+			AresLaughBoom.DisplayName: 폭발
+			AresPlasmaFireball.DisplayName: 휘발성 플라즈마 폭파
+			AresPrecisionBlast.DisplayName: 정밀 폭파
+			AresPulseBlast.DisplayName: Exopulse 에너지 파열
+			AresPulseDeathray.DisplayName: Pulse 데스레이
+			AresSpinningDeathBeam.DisplayName: 엑소 과부화 광선
+			AresSpinningRedDeathray.DisplayName: 엑소 발열 분해 데스레이
+			AresTeslaGasField.DisplayName: 전기 구름
+			AresTeslaOrb.DisplayName: 테슬라 구
+			AresTeslaSpark.DisplayName: 테슬라 스파크
+			ExoburstSpark.DisplayName: 엑소버스트 스파크
+			HotMetal.DisplayName: 과열된 금속
+			PlasmaGas.DisplayName: 플라즈마
+			SmallPlasmaSpark.DisplayName: 플라즈마 스파크
+			ApolloAcceleratingPlasmaSpark.DisplayName: 플라즈마 스파크
+			ApolloFallingPlasmaSpark.DisplayName: 플라즈마 스파크
+			ApolloFlamethrower.DisplayName: 엑소플라즈마 화염방사기
+			ApolloPlasmaFireball.DisplayName: 휘발성 플라즈마 폭파
+			ApolloRocketInfernum.DisplayName: 고폭 플라즈마 로켓
+			ArtemisBasicShotLaser.DisplayName: 엑소 불꽃 레이저
+			ArtemisGasFireballBlast.DisplayName: 불안정한 화염구 폭파
+			ArtemisGatlingLaser.DisplayName: 엑소 불꽃 레이저
+			ArtemisLaser.DisplayName: 엑소 불꽃 레이저
+			ArtemisLaserbeamTelegraph.DisplayName: 레이저광선 신호
+			ArtemisSpinLaser.DisplayName: 오하이오 광선
+			ArtemisSweepLaserbeam.DisplayName: 오하이오 광선
+			ExoplasmaBomb.DisplayName: 엑소플라즈마 폭탄
+			ExoplasmaExplosion.DisplayName: 엑소플라즈마 폭발
+			PlasmaChargeTelegraph.DisplayName: 충전 신호
+			SuperheatedExofireGas.DisplayName: 과열된 화염
+			ThermonuclearDeathOrb.DisplayName: 열핵 죽음의 구체
+			DetatchedThanatosLaser.DisplayName: 엑소 불꽃 레이저
+			ExolaserBomb.DisplayName: 엑소레이저 폭탄
+			ExolaserSpark.DisplayName: 엑소레이저 스파크
+			LightOverloadRay.DisplayName: 프리즘 과부화 광선
+			LightRayTelegraph.DisplayName: 프리즘 빛
+			OverloadBoom.DisplayName: 폭발
+			RefractionRotor.DisplayName: 굴절 회전자
+			ThanatosAresComboLaser.DisplayName: 엑소 불꽃 레이저
+			BigFollyFeather.DisplayName: 깃털
+			BirbThunderAuraFlare.DisplayName: 드라코닉 오라 플레어
+			ExplodingEnergyOrb.DisplayName: 플라즈마 구체
+			FollyFeather.DisplayName: 깃털
+			LightningCloud.DisplayName: 번개
+			LightningCloud2.DisplayName: 번개
+			LightningSuperchargeTelegraph.DisplayName: 충전 신호
+			RedLightningRedirectingFeather.DisplayName: 번개 깃털
+			RedLightningSnipeFeather.DisplayName: 번개 깃털
+			RedSpark.DisplayName: 번개 깃털
+			VolatileLightning.DisplayName: 번개 구름
+			BloodBolt.DisplayName: 피 볼트
+			BloodShot2.DisplayName: 피
+			GoreSpike.DisplayName: 가시
+			GoreSpitBall.DisplayName: 뱉어진 피공
+			SanguineBat.DisplayName: 핏빛 박쥐
+			ChargeTyphoon.DisplayName: 태풍
+			SharkSummoner.DisplayName: 무언갈 소환
+			SmallWave.DisplayName: 파도
+			TidalWave.DisplayName: 해일
+			Tornado.DisplayName: 토네이도
+			TyphoonBlade.DisplayName: 태풍 블레이드
+			AcceleratingPrismaticBolt.DisplayName: 프리즘 볼트
+			ArcingLightBolt.DisplayName: 빛 볼트
+			EmpressAurora.DisplayName: 오로라
+			EmpressExplosion.DisplayName: 폭발
+			EmpressPrism.DisplayName: 프리즘
+			EmpressSparkle.DisplayName: 위엄 있는 스파클
+			EmpressSword.DisplayName: 여제 블레이드
+			EtherealLance.DisplayName: 에테리얼 랜스
+			LanceCreatingSword.DisplayName: 여제 블레이드
+			LightOverloadBeam.DisplayName: 프리즈마틱 과부화 레이저
+			PrismaticBolt.DisplayName: 프리즈마틱 볼트
+			PrismLaserbeam.DisplayName: 프리즈마틱 레이저
+			ShimmeringLightWave.DisplayName: 폭발
+			SpinningPrismLaserbeam.DisplayName: 프리즘 레이저
+			StarBolt.DisplayName: 별 볼트
+			StolenCelestialObject.DisplayName: 도난당한 거대 천체
+			CorruptThorn.DisplayName: 오염된 가시
+			CursedBullet.DisplayName: 저주받은 사격
+			CursedFlameBomb.DisplayName: 저주받은 불꽃 폭탄
+			ShadowOrb.DisplayName: 그림자 구체
+			BloodShot.DisplayName: 피
+			EoCTooth.DisplayName: 이빨
+			EoCTooth2.DisplayName: 이빨
+			SittingBlood.DisplayName: 이빨공
+			FistBullet.DisplayName: 주먹 총알
+			FistBulletTelegraph.DisplayName: 신호
+			GolemEyeLaserRay.DisplayName: 가열된 레이저
+			GolemLaser.DisplayName: 가열된 레이저
+			GroundFireCrystal.DisplayName: 화염 수정
+			SpikeTrap.DisplayName: 가시 함정
+			StationarySpikeTrap.DisplayName: 가시 함정
+			ThermalDeathray.DisplayName: 열렬 데스레이
+			BereftVassalBigBoom.DisplayName: 폭발
+			BereftVassalSpear.DisplayName: 미린다엘
+			BereftVassalTeleportBoom.DisplayName: 폭발
+			DustDevil.DisplayName: 먼지 악마
+			GreatSandBlast.DisplayName: 모래 폭파
+			GroundSlamWave.DisplayName: 파도
+			PressureSandnado.DisplayName: 모래 토네이도
+			SandBlob.DisplayName: 모래 덩어리
+			SparkTelegraphLine.DisplayName: 신호
+			TorrentWave.DisplayName: 파도
+			VassalLightning.DisplayName: 미린다엘 번개
+			VassalSpark.DisplayName: 스파크
+			WaterSlice.DisplayName: 물 균열
+			WaterSpear.DisplayName: 물 창
+			WaterTorrentBeam.DisplayName: 물 급류
+			BlobProjectile.DisplayName: 하이브 덩어리
+			EaterOfSouls.DisplayName: 영혼을 먹는 자
+			HiveMindWave.DisplayName: 폭발
+			ShadeFire.DisplayName: 화염
+			DeathSlash.DisplayName: 닌자 슬라이스
+			JewelBeam.DisplayName: 광선
+			Shuriken.DisplayName: 수리검
+			AnahitaWaterIllusion.DisplayName: 아나히타 환각
+			AquaticAberrationProj.DisplayName: 해양 변형
+			AtlantisSpear.DisplayName: 아틀란티스 창
+			AtlantisSpear2.DisplayName: 아틀란티스 창
+			HeavenlyLullaby.DisplayName: 천국의 자장가
+			LeviathanMeteor.DisplayName: 레비아탄 메테오
+			LeviathanSpawner.DisplayName: 물
+			LeviathanSpawnWave.DisplayName: 파도
+			LeviathanVomit.DisplayName: 레비아탄 발사체
+			RedirectingWaterBolt.DisplayName: 물 창
+			WaterBolt.DisplayName: 물 창
+			LunarAsteroid.DisplayName: 달의 불꽃
+			LunarFireball.DisplayName: 달의 불꽃
+			LunarFlare.DisplayName: 환상적인 플레어
+			LunarFlareTelegraph.DisplayName: 신호
+			MoonLordDeathAnimationHandler.DisplayName: 죽음 애니메이션
+			MoonLordDeathBloodBlob.DisplayName: 이코르 방울
+			MoonLordExplosion.DisplayName: 폭발
+			MoonLordExplosionCinder.DisplayName: 재
+			MoonLordWave.DisplayName: 폭발
+			NonHomingPhantasmalEye.DisplayName: 환상적인 눈
+			PhantasmalDeathray.DisplayName: 환상적인 데스레이
+			PhantasmalOrb.DisplayName: 환상적인 구체
+			PressurePhantasmalDeathray.DisplayName: 환상적인 데스레이
+			StardustConstellation.DisplayName: 별
+			TrueEyeChargeTelegraph.DisplayName: 충전 신호
+			VoidBlackHole.DisplayName: 공허
+			HomingAcid.DisplayName: 산성
+			OldDukeTooth.DisplayName: 썩은 이빨
+			SharkSummonVortex.DisplayName: 유황 소용돌이
+			SulphuricBlob.DisplayName: 유황 덩어리
+			BloodGlob.DisplayName: 핏방울
+			Crimera.DisplayName: 시메트라
+			FallingIchor.DisplayName: 이코르
+			FallingIchorBlast.DisplayName: 이코르 방울
+			FlyingIchor.DisplayName: 이코르
+			IchorBlast.DisplayName: 이코르 폭파
+			IchorBolt.DisplayName: 이코르 침
+			PerforatorWave.DisplayName: 폭발
+			ToothBall.DisplayName: 이빨공
+			BombingTelegraph.DisplayName: 신호
+			HostilePlagueSeeker.DisplayName: 역병 추적자
+			LargePlagueExplosion.DisplayName: 폭발
+			PlagueCloud.DisplayName: 역병 구름
+			PlagueDeathray.DisplayName: 역병 레이저
+			PlagueMissile.DisplayName: 미사일
+			PlagueMissile2.DisplayName: 미사일
+			PlagueNuclearExplosion.DisplayName: 폭발
+			PlagueVomit.DisplayName: 역병 구토
+			PlagueWave.DisplayName: 폭발
+			RedirectingPlagueMissile.DisplayName: 미사일
+			BouncingPetal.DisplayName: 꽃잎
+			ExplodingFlower.DisplayName: 꽃
+			NettlevineArenaSeparator.DisplayName: 쐐기풀덩굴
+			Petal.DisplayName: 꽃잎
+			SporeFlower.DisplayName: 꽃
+			SporeGas.DisplayName: 스포어 가스
+			ArcingSoul.DisplayName: 영혼
+			CirclingEctoplasm.DisplayName: 심령체 위습
+			EctoplasmShot.DisplayName: 심령체 폭파
+			GhostlyVortex.DisplayName: 환영체 소용돌이
+			Light.DisplayName: 빛
+			NonReturningSoul.DisplayName: 영혼
+			NotSpecialSoul.DisplayName: 영혼
+			PolterghastWave.DisplayName: 폭발
+			SoulTelegraphLine.DisplayName: 신호
+			SpinningSoul.DisplayName: 영혼
+			WavySoul.DisplayName: 영혼
+			EvenlySpreadPrimeLaserRay.DisplayName: 데스레이
+			LightningStrike.DisplayName: 번개
+			MetallicSpike.DisplayName: 금속 가시
+			PrimeMissile.DisplayName: 미사일
+			PrimeShield.DisplayName: 방패
+			PrimeSmallLaser.DisplayName: 레이저
+			SawSpark.DisplayName: 소우 스파크
+			SmallElectricGasGloud.DisplayName: 번개 구름
+			TeslaBomb.DisplayName: 테슬라 폭탄
+			CommanderSpear.DisplayName: 신성한 창
+			CommanderSpearThrown.DisplayName: 부정당한 창
+			DefenderShield.DisplayName: 돌 방패
+			GuardiansRodFailPulse.DisplayName: 폭발
+			HolyAimedDeathray.DisplayName: 불꽃 광선
+			HolyAimedDeathrayTelegraph.DisplayName: 신호
+			HolyDogmaFireball.DisplayName: 큰 화염구
+			HolyFireRift.DisplayName: 화염 틈
+			HolyFireWall.DisplayName: 화염 벽
+			HolyPushbackWall.DisplayName: 화염 벽
+			HolySineSpear.DisplayName: 부정당한 창
+			HolySpinningFireBeam.DisplayName: 신성한 화염 광선
+			LavaEruptionPillar.DisplayName: 용암 간헐천
+			LingeringHolyFire.DisplayName: 신성한 화염
+			MagicCrystalShot.DisplayName: 수정의 빛
+			MagicSpiralCrystalShot.DisplayName: 수정의 빛
+			ProfanedCirclingRock.DisplayName: 부정당한 바위
+			ProfanedCrack.DisplayName: 부정당한 균열
+			ProfanedField.DisplayName: 부정당한 방어자 필드
+			ProfanedRock.DisplayName: 부정당한 바위
+			ProfanedSpearInfernum.DisplayName: 부정당한 창
+			TelegraphedProfanedSpearInfernum.DisplayName: 부정당한 창
+			AcceleratingCrystalShard.DisplayName: 신성한 수정 조각
+			AcceleratingMagicProfanedRock.DisplayName: 부정당한 바위
+			CleansingFireball.DisplayName: 청소하는 화염구
+			CommanderSpear2.DisplayName: 신성한 창
+			CrystalTelegraphLine.DisplayName: 신호
+			DyingSun.DisplayName: 죽어가는 태양
+			FallingCrystalShard.DisplayName: 신성한 수정 조각
+			HolyBasicFireball.DisplayName: 신성한 화염구
+			HolyBomb.DisplayName: 신성한 폭탄
+			HolyCinder.DisplayName: 신성한 재
+			HolyCross.DisplayName: 신성한 상징
+			HolyCrystalSpike.DisplayName: 수정 가시
+			HolyMagicLaserbeam.DisplayName: 신성한 분해 데스레이
+			HolyRitual.DisplayName: 신성한 의례
+			HolySpear.DisplayName: 신성한 창
+			HolySpearFirePillar.DisplayName: 용암 간헐천
+			HolySunExplosion.DisplayName: 신성한 폭발
+			ProfanedLava.DisplayName: 속죄의 이글거리는 용암
+			ProfanedLavaBlob.DisplayName: 용암 거품
+			ProvBoomDeath.DisplayName: 폭발
+			ProvidenceArenaBorder.DisplayName: 경계
+			ProvidenceWave.DisplayName: 폭발
+			ProvSummonFlameExplosion.DisplayName: 고열 폭발
+			StrongProfanedCrack.DisplayName: 부정당한 균열
+			BeeWave.DisplayName: 폭발
+			ConvergingHornet.DisplayName: 말벌
+			HoneyBlast.DisplayName: 꿀 폭파
+			HornetHive.DisplayName: 하이브
+			TinyBee.DisplayName: 꿀벌
+			BouncingSlimeProj.DisplayName: 탱탱한 슬라임
+			FallingCrystal.DisplayName: 신성한 수정
+			FallingGel.DisplayName: 떨어지는 젤
+			FallingSpikeSlimeProj.DisplayName: 수정 슬라임
+			HallowBlade.DisplayName: 신성한 블레이드
+			HallowBladeLaserbeam.DisplayName: 신성한 블레이드 데스레이
+			HallowCrystalSpike.DisplayName: 수정 가시
+			HallowLaserbeam.DisplayName: 신성한 데스레이
+			QueenJewelBeam.DisplayName: 광선
+			QueenSlimeCrown.DisplayName: 퀸 슬라임의 왕관
+			QueenSlimeCrystalSpike.DisplayName: 수정 가시
+			QueenSlimeLightWave.DisplayName: 폭발
+			QueenSlimeSplitFormProj.DisplayName: 천국의 슬라임
+			SpinningLaserCrystal.DisplayName: 신성한 수정
+			DarkFlamePillar.DisplayName: 암흑 불꽃 기둥
+			DarkFlamePillarTelegraph.DisplayName: 신호
+			DarkMagicCinder.DisplayName: 암흑 마법 재
+			DarkMagicFireball.DisplayName: 암흑 마법 화염구
+			GroundBloodSpike.DisplayName: 피가시
+			GroundBloodSpikeCreator.DisplayName: 피가시 제작자
+			RitualFlame.DisplayName: 푸른 불꽃
+			SlammingRockPillar.DisplayName: 바위 기둥
+			StompShockwave.DisplayName: 충격파
+			UnholyBloodGlob.DisplayName: 불경건한 피
+			CosmicExplosion.DisplayName: 전우주의 폭발
+			CosmicKunai.DisplayName: 전우주의 쿠나이
+			CosmicMine.DisplayName: 전우주의 자원
+			DarkCosmicBomb.DisplayName: 전우주의 폭탄
+			EldritchScythe.DisplayName: 거대한 낫
+			ShadowDashTelegraph.DisplayName: 신호
+			ShadowSlash.DisplayName: 그림자 슬래시
+			AcceleratingSkull.DisplayName: 해골
+			NonHomingSkull.DisplayName: 해골
+			ShadowflameFireball.DisplayName: 그림자불꽃 폭탄
+			SpinningFireball.DisplayName: 그림자불꽃 화염구
+			DeceleratingCrimulanGlob.DisplayName: 불안정한 진홍 방울
+			DeceleratingEbonianGlob.DisplayName: 불안정한 칠흑 방울
+			GroundSlimeGlob.DisplayName: 불안정한 슬라임 방울
+			HomingWeaverSpark.DisplayName: 스파크
+			WeaverSpark.DisplayName: 스파크
+			WindGust.DisplayName: 돌풍
+			AcceleratingDarkMagicFlame.DisplayName: 암흑 마법 불꽃
+			BrimstoneDemonSummonExplosion.DisplayName: 유황 폭발
+			BrimstoneFlameOrb.DisplayName: 유황 불꽃 구체
+			BrimstoneFlamePillar.DisplayName: 유황 불꽃 기둥
+			BrimstoneFlamePillarTelegraph.DisplayName: 신호
+			BrimstoneJewelProj.DisplayName: 유황 보석
+			BrimstoneLaserbeam.DisplayName: 유황 데스레이
+			CatastropheSlash.DisplayName: 공명 슬래시
+			CondemnationArrowSCal.DisplayName: 암흑 화살
+			CondemnationProj.DisplayName: 유죄 판결
+			CalamitasCutsceneProj.DisplayName: 칼라미타스
+			DemonicBomb.DisplayName: 악마의 폭탄
+			DemonicExplosion.DisplayName: 악마의 폭발
+			DemonicTelegraphLine.DisplayName: 신호
+			FlameOverloadBeam.DisplayName: 유황 불꽃 과부화 레이저
+			HeresyProjSCal.DisplayName: 이교
+			InfernumBrimstoneGigablast.DisplayName: 유황 기가블라스트
+			LostSoulProj.DisplayName: 불타는 영혼
+			RedirectingDarkSoul.DisplayName: 암흑 영혼
+			RedirectingHellfireSCal.DisplayName: 유황 지옥불
+			RedirectingLostSoulProj.DisplayName: 불타는 영혼
+			RitualBrimstoneHeart.DisplayName: 유황 심장
+			SepulcherBone.DisplayName: 신비한 뼈
+			SepulcherSoulBomb.DisplayName: 노한 영혼들
+			ShadowBolt.DisplayName: 그림자 볼트
+			ShadowFlameBlast.DisplayName: 그림자 폭파
+			ShadowGigablast.DisplayName: 그림자 기가블라스트
+			ShadowSpark.DisplayName: 그림자 스파크
+			SuicideBomberDemonExplosion.DisplayName: 폭발
+			SuicideBomberDemonHostile.DisplayName: 악마
+			SuicideBomberRitual.DisplayName: 의례
+			SupremeCalamitasBrotherPortal.DisplayName: 암흑 차원문
+			SCalSymbol.DisplayName: 연금술 상징
+			VigilanceProj.DisplayName: 각성
+			CursedCinder.DisplayName: 저주받은 재
+			CursedFireballBomb.DisplayName: 저주받은 화염구 폭탄
+			CursedFlameBurst.DisplayName: 저주받은 불꽃
+			CursedFlameBurstTelegraph.DisplayName: 신호
+			HomingCursedFlameBurst.DisplayName: 저주받은 불꽃
+			LaserGroundShock.DisplayName: 지면 충격
+			LightningTelegraph.DisplayName: 신호 레이저
+			RedLightning.DisplayName: 번개
+			RetinazerAimedDeathray.DisplayName: 데스레이
+			RetinazerAimedDeathray2.DisplayName: 데스레이
+			RetinazerGroundDeathray.DisplayName: 데스레이
+			RetinazerLaser.DisplayName: 죽음의 레이저
+			SpazmatismFlamethrower.DisplayName: 저주받은 화염방사기
+			TwinsEnergyExplosion.DisplayName: 펑
+			TwinsLensFlare.DisplayName: 렌즈 플레어
+			TwinsShield.DisplayName: 방패
+			TwinsSpriteExplosion.DisplayName: 트윈즈 스프라이트 폭발
+			CursedSoul.DisplayName: 영혼
+			FireBeamTelegraph.DisplayName: 신호
+			FireBeamWoF.DisplayName: 불꽃 광선
+			TileTentacle.DisplayName: 촉수
+			DraconicBlossomPetal.DisplayName: 드라코닉 개화 꽃잎
+			DraconicInfernado.DisplayName: 드라코닉 인페르네이도
+			DragonFireball.DisplayName: 화염구
+			HomingFireball.DisplayName: 유도 화염구
+			InfernadoSpawner.DisplayName: 큰 플레어
+			LingeringDragonFlames.DisplayName: 드래곤파이어
+			MajesticSparkleBig.DisplayName: 위엄 있는 스파클
+			RedirectingYharonMeteor.DisplayName: 드래곤 화염구
+			VortexOfFlame.DisplayName: 불꽃의 소용돌이
+			VortexTelegraphBeam.DisplayName: 불꽃 광선 신호
+			YharonBoom.DisplayName: 펑
+			YharonFlameExplosion.DisplayName: 고열 폭발
+			YharonFlamethrower.DisplayName: 드라코닉 불꽃 숨결
+			YharonHeatFlashFireball.DisplayName: 화염
+			YharonMajesticSparkle.DisplayName: 위엄 있는 스파클
+			DraconicBurst.DisplayName: 드라코닉 파멸
+			ExplodingWyvern.DisplayName: 와이번
+			MeteorCinder.DisplayName: 재
+			MoltenMeteor.DisplayName: 메테오
+			CloudLightning.DisplayName: 구름 번역
+			LargeCloud.DisplayName: 대형 구름
+			LargeHail.DisplayName: 큰 우박
+			SmallHail.DisplayName: 작은 우박
+			ChainGuillotine.DisplayName: 사슬 단두대
+			CursedDart.DisplayName: 저주받은 불꽃 다트
+			CursedFlamePillar.DisplayName: 저주받은 불꽃 기둥
+			FetidBaghnakhs.DisplayName: 악취의 바그나우
+			IchorDart.DisplayName: 이코르 다트
+			LifeDrainingField.DisplayName: 생명-흡수 필드
+			DarkMagicCircle.DisplayName: 암흑 마법
+			RedirectingWeakDarkMagicFlame.DisplayName: 암흑 불꽃
+			PearlSwirl.DisplayName: 진주 물보라
+			CrystalShard.DisplayName: 수정 조각
+			FlyingKnife.DisplayName: 날아다니는 칼
+			HolyStar.DisplayName: 신성한 별
+			PiercingCrystalShard.DisplayName: 수정 조각
+			ConvergingGammaEnergy.DisplayName: 감마 분석
+			GammaRain.DisplayName: 감마비
+			GammaSuperDeathray.DisplayName: 감마 데스레이
+			BouncingSpitBall.DisplayName: 뱉어진 덩어리
+			RisingFireball.DisplayName: 화염구
+			SandFlameBall.DisplayName: 모래공
+			Sandnado2.DisplayName: 모래 토네이도
+			WanderersShellWater.DisplayName: 물 급류
+			BrimstoneCrescentStaffProj.DisplayName: 유황 초승달 스태프
+			BrimstoneForcefieldExplosion.DisplayName: 유황 폭발
+			CherryBlossomPetal.DisplayName: 벚꽃 꽃잎
+			DisenchantedTabletProj.DisplayName: 마법이 비어있는 서판
+			GuardiansSummonerProjectile.DisplayName: 수호자들 소환사 발사체
+			HydrothermalSmoke.DisplayName: 증기
+			PortalLensFlare.DisplayName: 렌즈 플레어
+			ProvidenceSummonerProjectile.DisplayName: 프로피던스 소환사 발사체
+			ScreenShakeProj.DisplayName: 화면 흔들림
+			TerminusAnimationProj.DisplayName: 테르미누스 애니메이션 발사체
+			WaterglassTokenProjectile.DisplayName: 물유리 토큰
+			HyperplaneMatrixProjectile.DisplayName: 초평면 매트릭스
+			AridBattlecryProjectile.DisplayName: 매마른 전투의 함성
+			EyeOfMadnessProj.DisplayName: 광기의 눈
+			IllusionersReverieProj.DisplayName: 환술가의 환상
+			KevinProjectile.DisplayName: Kevin
+			LingeringSandSkull.DisplayName: 모래 해골
+			MiniSandShark.DisplayName: 미니 모래 상어
+			ShadowIllusion.DisplayName: 렌즈 플레어
+			ShadowTendril.DisplayName: 그림자 촉수
+			EggGoldProjectile.DisplayName: 황금알
+			EggProjectile.DisplayName: 달걀
+			MyrindaelBonkProjectile.DisplayName: 미린다엘
+			MyrindaelLightning.DisplayName: 미린다엘 번개
+			MyrindaelSpark.DisplayName: 미린다엘 스파크
+			MyrindaelSpinProjectile.DisplayName: 미린다엘
+			AsterPetProj.DisplayName: 애스터
+			BlahajProj.DisplayName: Blahaj
+			BronzePetProj.DisplayName: 얀
+			HatGirl.DisplayName: 모자걸
+			SheepGod.DisplayName: 양의 신
+			GlassmakerFire.DisplayName: 유리 불꽃
+			GlassmakerHoldout.DisplayName: 유리제작기
+			GlassPiece.DisplayName: 유리 조각
+			DreamtasticEnergyBolt.DisplayName: 몽상가의 에너지 볼트
+			DreamtasticProj.DisplayName: 몽환상
+			StormMaidensLightning.DisplayName: 폭풍소녀의 번개
+			StormMaidensRetributionProj.DisplayName: 폭풍소녀의 보복
+			StormMaidensRetributionWorldProj.DisplayName: 폭풍소녀의 보복
+			WanderersShellProj.DisplayName: 방랑자의 껍데기
+			WayfinderGate.DisplayName: 길잡이 게이트
+			WayfinderHoldout.DisplayName: 길잡이
+			WayfinderItemProjectile.DisplayName: 길잡이
+			WayfinderSymbol.DisplayName: 길잡이 게이트 상징
+			MushBombInfernum.DisplayName: 버섯폭탄 인페르넘
+			DoGProviCutsceneInitialPortal.DisplayName: 신포자 프비던 컷신 초반 차원문
+			DoGProviCutsceneProjectile.DisplayName: 신포자 프비던 컷신 발사체
+			ProviBurnPulseRing.DisplayName: 프비던 불타는 펄스 링
+			PerditusProjectile.DisplayName: 페르디투스
+			PunctusProjectile.DisplayName: 푼크투스
+			PunctusRock.DisplayName: 푼크투스 바위
+			BrimstoneBarrageOld.DisplayName: 유황 다트
+			SupremeCataclysmFistOld.DisplayName: 격노의 주먹
+			VortexFireball.DisplayName: 소용돌이치는 화염구
+		}
+
+		Status: {
+			AchievementCompletionText: 도전 과제 완료!
+			InfernumDisallowedInWeirdDifficulties: 인페르넘은 마스터 모드, For the Worthy, Get fixed boi 시드에서는 호환되지 않습니다.
+			EternityModeWarning: 이터니티 모드 AI는 겹칠 경우 인페르넘 AI로 대체됩니다.
+			CyberneticImmortalityEnabled: 사이버네틱 불멸이 활성화되었습니다.
+			CyberneticImmortalityDisabled: 사이버네틱 불멸이 비활성화되었습니다.
+			AbyssTeleportAwayDenial: 탈출하기엔 압력이 너무 강하다!
+			EggSwordShrineBreakFailure: 달걀이 당신을 거부한다!
+			WayfinderGateNotSet: 게이트 미설정!
+			InfernumNeededToEnterColosseum: 콜로세움을 입장하려면 인페르넘을 꼭 켜야 합니다!
+			InfiniteFlight: 무한 비행을 부여했습니다!
+			AquaticScourgeFinalPhaseAcid: 산성 홍수가 아래에서부터 빠르게 솟아오르고 있다!
+			CalShadowBrothersSummon: 형제여, 저들을 파괴하라.
+			CalShadowFinalPhase: 이제 시작일 뿐이야!
+			CalShadowFinalHexWarning: 아직 끝나지 않았어! 내 가장 강력한 주술을 보라!
+			CalShadowFinalHexSurprise: 아.
+			TwinsForcefieldSummonSpazmatism: SPA-MK4: 보호막 격파됨. FFLD-17ECF9 절차를 시작합니다.
+			TwinsForcefieldSummonRetinazer: RET-MK7: 보호막 격파됨. FFLD-17ECF9 절차를 시작합니다.
+			TwinsFinalPhaseSpazmatism: SPA-MK4: 이중 장치 감지에 오류 발생. 비축 연료의 소비가 과도합니다.
+			TwinsFinalPhaseRetinazer: RET-MK7: 이중 장치 감지에 오류 발생. 비축 연료의 소비가 과도합니다.
+			PBGNuclearCoreGeneration: 핵 노심 생성. 빌드 절차를 진행합니다!
+			PostCultistColosseumCreation: 신비한 유적이 사막의 심장에 구체화되었다!
+			PostMLTempleCreation: 지하세계 가장자리의 잿더미에서 부정당한 정원이 발현되었다!
+			ProvidenceLavaRise: 용암이 솟아오르고 있다!
+			DoGTeleportDenial1: 그리 쉽게 피할 순 없어!
+			DoGTeleportDenial2: 이 차원의 주인은 절대 넘을 수 없다!
+			DoGTeleportDenial3: 느려!
+			DoGDeath1: 나는 절대로 파괴되지 않으리라!!!
+			DoGDeath2: 나는 절대로 파괴되지 않으리라!!!
+			DoGDeath3: 나는 절대로 파괴되지 않으리라!!!
+			DoGDeath4: 나는 절대로...
+			DoGDeath5: 나는...
+			YharonSecondPhase: 주변의 공기가 피부를 태우고 있다...
+			YharonFinalPhase: 열기가 최고조에 달하고 있다...
+			PostYharonWyrmHint: 심연 최하층 밑바닥에서 원시의 빛이 일렁인다...
+			DraedonEffortMock1: 매우 흥미로운 노력일세.
+			DraedonEffortMock2: 계속하게. 계속 내 기계들을 학습시키란 말이야.
+			DraedonAresDesperationBlenderLeaveWarning: 아주 치명적인 오판이야.
+			ExoMechDesperationAres1: ARES-09: 코어 온도 급속도로 증가 중. 자가 파괴 임박.
+			ExoMechDesperationAres2: ARES-09: '정밀 감마-폭파' 상호 파괴 프로토콜 준비.
+			ExoMechDesperationTwins1: ARTEMIS-01: 결합 에너지 용량 낮음. 시스템 오류 임박.
+			ExoMechDesperationTwins2: APOLLO-03: '열핵 전격' 상호 파괴 프로토콜 준비 중.
+			ExoMechDesperationThanatos1: THANATOS-05: 엑소 터렛이 불안정 에너지 수준에서 발화함. 자가 파괴 임박.
+			ExoMechDesperationThanatos2: THANATOS-05: '최대 오버드라이브 충전' 상호 파괴 프로토콜 준비 중.
+			DraedonDefeat1: 흥미로워. 정말, 흥미로워.
+			DraedonDefeat2: 내 총알세례 오페라가 진정으로 완전히 패배했구나.
+			DraedonDefeat2HyperplaneMatrix: 넌 정말 훌륭한 실험 대상이야.
+			DraedonDefeat3: 내 예상을 완벽히 빗겨갔어.
+			DraedonDefeat3HyperplaneMatrix: 자네의 전투에서 얻은 이 데이터들은 정말 귀중해.
+			DraedonDefeat4: 어쩌면... 이 귀중한 시간에 대한 보상을 줘야 할 수도 있겠어.
+			DraedonDefeat4HyperplaneMatrix: ...잠시 실례. 그 장면 후에 내 생각을 정리해야 하거든.
+			DraedonDefeat5: 자네가 내 추론을 뛰어넘었다고 판단해도 비합리적이지 않아보이는구나.
+			DraedonDefeat6: 자.
+			DraedonDefeat6HyperplaneMatrix: 내 가장 유용한 창조물이네. 분명 자네에게 쓸모가 있겠지.
+			DraedonDefeat7: 자넨 폭군에게로 나아가고 있을 거야. 허나 이 이상 도움을 줄 순 없다네.
+			DraedonDefeat7HyperplaneMatrix: 그러니, 현명하게 사용하길 바라.
+			DraedonDefeat8: 악의 없이, 갈등에 관여하고 싶지 않을 뿐.
+			DraedonDefeat9: 이제, 내 기계로 돌아가야 한다네. 코드브레이커를 사용하여 내 창조물과 다시 만나도 되고.
+			DraedonDefeat10: 그 동안, 작별을 고하고, 자네의 노력에 행운을 비네.
+			SCalCongratulations: ...축하한다.
+			MultiplayerWarning: InfernumMode: 멀티플레이어는 지원되지 않으며, 치명적 문제가 발생하여 모드가 완전히 고장날 수 있습니다. 또한, 멀티플레이어 버그는 보고하지 마십시오.
+
+			Death: {
+				RedElectrified: "{0}은(는) 붉은 번개를 버틸 수 없었다."
+				DarkFlames: "{0}은(는) 불경한 화염에 휩싸였다."
+				Madness: "{0}이(가) 미쳐버렸다."
+				HyperplaneMatrixExplosion: "{0}은(는) 폭발했다."
+			}
+		}
+
+		Tiles: {
+			HydrothermalVent.MapEntry: 간헐천
+			GolemArena.MapEntry: 아레나
+			MoonlordArena.MapEntry: 아레나
+			SeaShell.MapEntry: 바다 껍데기
+		}
+
+		UI: {
+			NotExpertWarning: "[c/ff00000:인페르넘은 전문가에서만 가능합니다]"
+			AchievementsHeader: 죽음의 소망
+			AchievementsLabelText: 다음
+			InfernumIconText: 인페르넘 모드가 켜짐
+			WishesHeader: 개발자 소망
+			WishesHoverTextButton: 죽음의 소망 열기
+
+			GuardiansPlaqueUI: {
+				HoverText: 읽기
+				// !! Beware translators: The "ancient artifact" string must be the same as the one in the SpecialText
+				PlaqueText: 세 제자. 마음. 신명. 목적. 프로비던스의 신성한 불꽃으로 이루어진 이 사원에서, 고대 유물은 이 사원의 절벽에서 오로지 한 의례를 위해 결정화되었다.
+				SpecialText: 고대 유물
+			}
+
+			// Enrage tooltips
+			EnrageTooltipReplacements: {
+				DecapoditaSprout: 발광 버섯 지형 밖에서는 폭주한다
+				WormFood: 커럽션 밖에서는 폭주한다
+				BloodySpine: 크림슨 밖에서는 폭주한다
+				Teratoma: 커럽션 밖에서는 폭주한다
+				BloodyWormFood: 크림슨 밖에서는 폭주한다
+				Seafood: 유황 바다 밖에서는 폭주한다
+				Abombination: 정글 지하 밖에서는 폭주한다
+				NecroplasmicBeacon: 지하 밖에서는 폭주한다
+			}
+
+			HyperplaneMatrixUI: {
+				Godmode: 사이버네틱 불멸성 토글
+				NoClip: 물리 저항 비행 토글
+				TimeSetMorning: 일출까지 시간 가속
+				TimeSetNoon: 정오까지 시간 가속
+				TimeSetDusk: 일몰까지 시간 가속
+				Butcher: 모든 적대적 NPC 원자화
+			}
+		}
+
+		CreditsHeaders: {
+			ProgramHeader: 프로그래머
+			MusicHeader: 작곡가
+			ArtHeader: 아티스트
+			TestHeader: 테스터
+			TranslateHeader: 번역자
+			SupportHeader: 후원자
+		}
+
+		WorldGen: {
+			BlossomGarden: 정원 가꾸는 중
+			EggShrine: 달걀 숨기는 중
+			TabletPedestal: 서판 두는 중
+			LostColosseum: 잃어버린 콜로세움 생성 중
+			ProfanedGarden: 고대 여신을 위한 사원 건설 중
+		}
+	}
+}

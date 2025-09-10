@@ -1,0 +1,38 @@
+Configs: {
+	InfernumKoreanLocalizationConfig: {
+		DisplayName: 설정
+
+		BossIntroScreensLocalization: {
+			Label: 보스 입장 글귀 번역
+			Tooltip: 끌 경우 보스 입장 글귀가 영어로 표기됩니다.
+		}
+
+		ChangeIntroFont: {
+			Label: 보스 입장 글귀 폰트 변경
+			Tooltip:
+				'''
+				보스 입장 글귀의 폰트를 변경합니다.
+				현재 느림보고딕, 기후위기-한글 2019, 테라리아 기본 설정 폰트를 지원합니다.
+				'''
+		}
+	}
+
+	FontList: {
+		vanilla: {
+			Label: 바닐라
+			Tooltip: ""
+		}
+
+		climateCrisis: {
+			Label: 기후위기-한글 2019
+			Tooltip: ""
+		}
+
+		neurimbo: {
+			Label: 느림보고딕
+			Tooltip: ""
+		}
+
+		Tooltip: ""
+	}
+}
